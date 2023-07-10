@@ -1,0 +1,38 @@
+name: Generate and deploy Service-Public.fr data
+
+on:
+  push:
+    branches-ignore:
+      - 'gh-pages'
+
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.10.12]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup python version
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Download data
+      run: |
+        wget --quiet https://www.data.gouv.fr/fr/datasets/r/73302880-e4df-4d4c-8676-1a61bb997f3d
+    - name: Extract data
+      run: |
+        tar -xvf 73302880-e4df-4d4c-8676-1a61bb997f3d --wildcards '*.json' -O > services-publics.json
+        tar -tvf 73302880-e4df-4d4c-8676-1a61bb997f3d | tail -c39 > metadata.txt
+    - name: Transform data
+      run: |
+        mkdir output
+        python3 transform_dataset.py
+    - name: Deploy
+      if: ${{ github.ref == 'refs/heads/main' }}
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: output
