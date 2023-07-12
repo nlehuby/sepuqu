@@ -1,6 +1,8 @@
 name: Generate and deploy Service-Public.fr data
 
 on:
+  schedule:
+    - cron:  '0 10 * * 2'
   push:
     branches-ignore:
       - 'gh-pages'
