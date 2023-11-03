@@ -41,27 +41,29 @@ def _retreat_name(official_name):
     city_name = zz[1]
     
     if city_name.startswith("A"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("E"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("I"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("O"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("U"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("É"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("È"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("Ê"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("Î"):
-        return
+        return official_name.replace(" - ", " d'")
     if city_name.startswith("Le "):
-        return   
+        return official_name.replace(" - Le ", " du ")   
     if city_name.startswith("Les "):
-        return         
+        return official_name.replace(" - Les ", " des ")    
+    if city_name.startswith("H"):
+        return official_name.replace(" - ", " d'")          
     return official_name.replace(" - ", " de ")
 
 
