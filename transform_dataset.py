@@ -39,7 +39,7 @@ def parse_opening_hours(txt):
 
 def _retreat_name(official_name):
     zz = official_name.split(" - ")
-    if len(zz)==1:
+    if len(zz)!= 2:
         return
     city_name = zz[1]
     
@@ -156,9 +156,9 @@ for feature in data["service"]:
         elem["name"] = None
     elem["contact:phone"] = None
     if feature.get("telephone"):
-    	phone_number = feature["telephone"][0]["valeur"]
-    	if len(phone_number) > 9 and phone_number.startswith("0") and '(' not in phone_number :
-        	elem["contact:phone"] = "+33 " + phone_number[1:]
+        phone_number = feature["telephone"][0]["valeur"]
+        if len(phone_number) > 9 and phone_number.startswith("0") and '(' not in phone_number :
+            elem["contact:phone"] = "+33 " + phone_number[1:]
     elem["contact:website"] = None
     if feature.get("site_internet"):
         elem["contact:website"] = feature.get("site_internet")[0]["valeur"]
