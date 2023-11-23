@@ -119,6 +119,37 @@ def retreat_Urssaf_name(official_name):
         return
     return official_name.split(" - ")[0]
 
+def retreat_phone_number(insee, phone_number):
+    if len(phone_number) < 9 :
+        return
+    if '(' in phone_number :
+        return
+    if not phone_number.startswith("0"):
+        return
+    if insee.startswith("971"):
+        return "+590 " + phone_number[1:]
+    if insee.startswith("972"):
+        return "+596 " + phone_number[1:]
+    if insee.startswith("973"):
+        return "+594 " + phone_number[1:]
+    if insee.startswith("974"):
+        return "+262 " + phone_number[1:]
+    if insee.startswith("975"):
+        return "+508 " + phone_number[1:]
+    if insee.startswith("976"):
+        return "+262 " + phone_number[1:]
+    if insee.startswith("977"):
+        return "+590 " + phone_number[1:]
+    if insee.startswith("978"):
+        return "+590 " + phone_number[1:]
+    if insee.startswith("986"):
+        return "+681 " + phone_number[1:]
+    if insee.startswith("987"):
+        return "+689 " + phone_number[1:]
+    if insee.startswith("988"):
+        return "+687 " + phone_number[1:]
+    return "+33 " + phone_number[1:]
+
 for feature in data["service"]:
     elem = {}
     if not feature.get("pivot"):
@@ -156,9 +187,7 @@ for feature in data["service"]:
         elem["name"] = None
     elem["contact:phone"] = None
     if feature.get("telephone"):
-        phone_number = feature["telephone"][0]["valeur"]
-        if len(phone_number) > 9 and phone_number.startswith("0") and '(' not in phone_number :
-            elem["contact:phone"] = "+33 " + phone_number[1:]
+        elem["contact:phone"] = retreat_phone_number(feature["code_insee_commune"], feature["telephone"][0]["valeur"])
     elem["contact:website"] = None
     if feature.get("site_internet"):
         elem["contact:website"] = feature.get("site_internet")[0]["valeur"]
