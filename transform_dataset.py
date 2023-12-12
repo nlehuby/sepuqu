@@ -24,7 +24,7 @@ def parse_opening_hours(txt):
         if not plage["nom_jour_fin"] or not plage["nom_jour_debut"]:
             return
         if not plage["valeur_heure_debut_1"] or not plage["valeur_heure_fin_1"]:
-            return              
+            return
         opening_hours += osm_days[plage["nom_jour_debut"]]
         if plage["nom_jour_debut"] != plage["nom_jour_fin"]:
             opening_hours += "-{}".format(osm_days[plage["nom_jour_fin"]])

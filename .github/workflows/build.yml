@@ -21,6 +21,11 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
+    - name: Install xsv
+      run: |
+        wget --quiet https://github.com/jqnatividad/qsv/releases/download/0.119.0/qsv-0.119.0-i686-unknown-linux-gnu.zip
+        unzip qsv-0.119.0-i686-unknown-linux-gnu.zip
+        pwd >> $GITHUB_PATH        
     - name: Download data
       run: |
         wget --quiet https://www.data.gouv.fr/fr/datasets/r/73302880-e4df-4d4c-8676-1a61bb997f3d
@@ -32,6 +37,9 @@ jobs:
       run: |
         mkdir output
         python3 transform_dataset.py
+    - name: Focus
+      run: |
+        qsv join id focus.csv id output/services_publics.csv |qsv select categorie,official_name,branch,name,contact:phone,contact:website,contact:email,ref:FR:SIRET,longitude,latitude,address_txt,wheelchair,wheelchair:description,opening_hours,insee,id,osm_id > output/focus_with_osm.csv
     - name: Deploy
       if: ${{ github.ref == 'refs/heads/main' }}
       uses: peaceiris/actions-gh-pages@v3
