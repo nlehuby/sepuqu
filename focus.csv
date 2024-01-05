@@ -1,6 +1,8 @@
 osm_id,id,com_nom
+way/62496024,beb21c87-ed67-41f3-8712-e36621bebe4a,Ablon-sur-Seine
 node/4758032221,9c18fa54-3f3c-4344-9edc-200e2d71ef0a,Achères-la-Forêt
 node/6565538985,0e140e49-c437-465e-b369-3ad4f97cf599,Acoua
+way/62558983,58b12f16-8cc8-4a84-aa59-1c6521f82d24,Alfortville
 node/4530951134,5001dc7a-ff4f-4ddd-813a-466c28423eec,Amillis
 node/4798913784,adc4cfb3-e4ac-481f-8515-68a027a93fcd,Amponville
 way/198857216,834808f7-0cc5-4aa2-9efc-fd6c7dfdcda1,Andrezel
@@ -8,6 +10,7 @@ node/4798915912,bf13e150-365a-44a1-b5f5-b39ea360c316,Annet-sur-Marne
 way/44366455,29efd88b-eaac-43b6-aad2-49a4b7811c80,Anse-Bertrand
 way/288987623,738bf0fc-a3a8-4cca-b27e-3449a9a262a9,Apatou
 way/113234280,9b65803b-4bcc-4e75-8b5e-ac0b45716df7,Arbonne-la-Forêt
+way/39224047,c177c786-4474-436a-9aa7-1492d5c7627e,Arcueil
 node/4798916925,4aca9232-ec73-4db2-8adf-c67fb26faf2c,Argentières
 node/4798915882,88f0cd29-0b15-45fd-b698-9c58a23f2a7a,Armentières-en-Brie
 node/3878136792,c80b3cae-1bcd-4fab-b8c4-af30e5ff9db6,Arville
@@ -55,11 +58,13 @@ way/148483791,b0523068-4b94-4627-97d3-fab880de965b,Boisdon
 node/4798913799,374dcdb1-0be9-4baf-95cf-9a00da7d6ae5,Boissettes
 node/4798916923,b0e9bba4-8d66-48d3-88f9-588fc7f9469d,Boissise-la-Bertrand
 way/113301208,3444e703-ffea-4500-9228-9c2a51f23351,Boissise-le-Roi
+way/103514934,e9865b7f-ec64-4f72-8a8b-8dc327fefe9b,Boissy-Saint-Léger
 node/4798915553,9129b03e-548d-40f7-bf33-7ebefdae4e88,Boissy-aux-Cailles
 node/4798916927,d614b050-87ff-4507-b3bc-a1145daa1b05,Boissy-le-Châtel
 node/4798916933,cd2798d4-1c3e-4df2-aad3-302a24ee2539,Boitron
 node/4798915886,940fce9d-3f0e-4830-aca9-3ba5842ebfcc,Bombon
 way/84177487,eb1dff87-9ca8-4f58-96f2-823afc7de6a4,Bondy
+node/611874742,01befebc-084e-4b13-ba83-fa49ee6e8ee8,Bonneuil-sur-Marne
 node/4798915895,509d62ae-7fdd-4ada-9988-2ff73f903af2,Bougligny
 way/41875548,d91d16b9-4445-46f6-b286-80fabfbb4753,Bouillante
 node/4798915885,bd56c773-cfaa-4e0a-b062-132357125ae3,Boulancourt
@@ -72,12 +77,14 @@ relation/2972562,ddb044ae-b297-41ee-a265-f1b1663f24c2,Bras-Panon
 node/2736241740,1debd90f-6812-43ec-bf78-3195aa0ba41b,Bray-sur-Seine
 way/113064466,2b2cf805-dd15-4c3f-ae22-164126d32443,Brie-Comte-Robert
 node/8228934441,934c7856-db77-45b3-be39-cff986bfd112,Brou-sur-Chantereine
+way/120400775,9d0cfea8-f4c3-4a5f-b342-786e50640bcd,Bry-sur-Marne
 node/9309443763,d2ef5a67-bebc-4404-81b5-91432e22e3aa,Bréau
 node/3878093990,188dbbae-5ad1-4db4-9ade-216c47171a8c,Burcy
 way/115362941,6de2dc02-a4ba-4bc5-92b5-cb43a86ce0b1,Bussières
 way/113171363,75cc4bd0-7e62-4e64-b32e-3b0b50733ec5,Bussy-Saint-Georges
 node/4798915889,11fd6e3d-5b3d-4d91-9ef6-f3db637cf5e9,Bussy-Saint-Martin
 node/3877912093,70566176-044e-4eee-a30e-81b119509dba,Buthiers
+relation/1003292,8d9b66e3-aa90-4d20-b92d-6bc687efd8aa,Cachan
 node/4048975595,8a242e55-e74f-48fd-8831-5b97ed13252a,Camopi
 way/115186628,b611a1dc-ede0-4ffb-a25b-2f8d064d7029,Cannes-Écluse
 way/287147726,e907770e-1333-40d0-bbde-b4aad025e03c,Capesterre-Belle-Eau
@@ -102,9 +109,11 @@ way/115198773,9bb7863a-6e3a-4220-adf9-818d936f754c,Champagne-sur-Seine
 node/4798915868,5e208bdc-19a0-4cb6-863a-7b6af20ede55,Champcenest
 way/113305753,cd77ba75-6d5d-47a4-9e6e-4e41fb539aa8,Champdeuil
 way/176175881,f8878d98-037a-4eea-88a3-8d3688dce537,Champeaux
+node/2702498234,2dc9de25-6aa9-4896-b503-0e3d19817390,Champigny-sur-Marne
 relation/2673069,41dd51b7-43d5-45c3-a2f7-392b7b50f4cb,Champs-sur-Marne
 node/4077694640,c7addd83-39b8-4e85-92c3-6a46c2b97397,Changis-sur-Marne
 way/115371880,d05253ea-40b0-49c3-aa60-375fd269c3ef,Chanteloup-en-Brie
+way/149276228,bf44ec72-48c5-4cd5-8d8a-2ebc7d56e6a2,Charenton-le-Pont
 node/3351967873,bee39188-534f-4099-8351-c0ce9a3ec422,Charmentray
 node/3351968053,90738439-6644-4317-b76f-76663fe3f223,Charny
 node/2362233346,7c0a2430-a60a-4d10-882c-d6853d77ffc5,Chartrettes
@@ -113,11 +122,13 @@ way/116129531,338228d2-dc11-462c-88ff-4359682c6d36,Chauconin-Neufmontiers
 way/115149865,86a7caff-e73b-431a-8e27-bbb4a836cdd6,Chauffry
 node/980768724,13fbe043-734e-4430-8ddc-dbae62d284a0,Chaumes-en-Brie
 way/111038720,aa283e8f-ae35-4729-a92e-877a8ab1621f,Chelles
+way/109256694,bf3ff90c-550e-4d99-a8af-81ef81e3b424,Chennevières-sur-Marne
 way/161044237,5de54c6b-def3-4b27-912d-a8cf74e0885a ,Chenoise-Cucharmoy 
 node/4798915881,fab144cc-9570-4bcd-ab19-32d996daaba3,Chenoise-Cucharmoy 
 node/4798915873,207c73b7-b5d6-4c2f-91a7-06548ea00804,Chenou
 Way/47289619,5e8502cb-b69c-418f-b4a3-22816d5b1497 ,Cherves-Richemont
 node/4798915853,3eb2cdd2-35a5-45f4-b2b8-9067eb7f37f7,Chessy
+way/155546358,1e673c75-155c-4085-a4d6-682378638a7d,Chevilly-Larue
 node/4798915860,914532f2-7e95-4cb2-86af-d5c71e75f362,Chevrainvilliers
 node/1636457731,66ae3f1d-1b00-4c2f-8deb-c365b0819cf9,Chevru
 way/97561399,7e6358a1-0139-45bc-964d-166f863bce36,Chevry-Cossigny
@@ -125,6 +136,7 @@ way/278566942,2b445ea8-dff4-4e5e-b642-26b3869e2a09,Chevry-en-Sereine
 node/4737488821,79ead539-37f2-48a1-88b3-ea81787b99fb,Chiconi
 node/4382643974,801d46a0-8383-451a-8994-0e1b5e5842d0,Chirongui
 node/4798915606,b99c71ea-75cc-41f2-93b2-14113f91d217,Choisy-en-Brie
+way/66132737,a7cb763f-e6a9-4ddd-9f5a-2809b282e2e0,Choisy-le-Roi
 node/423989967,830ac83e-5a0d-4ec0-a7c9-fe80f9124c2e,Château-Landon
 way/148529985,3497246a-14ee-4b0f-8e31-e05f81ec4cfa,Châteaubleau
 node/4798915880,2a551eeb-cd55-4d98-a7ec-787e51a8b6f7,Châtenay-sur-Seine
@@ -166,6 +178,7 @@ way/115413657,293cf18f-96aa-40f8-b58e-45881f8fd1f3,Crouy-sur-Ourcq
 way/149746662,20661432-3adc-489f-b92d-4af9413eb26e,Crèvecœur-en-Brie
 way/373781980,90d64d41-b994-4750-b66c-be667f1cfc46,Crécy-la-Chapelle
 node/11423198400,48cb2258-f7a9-41de-bc25-6b829c98de69,Crégy-lès-Meaux
+way/62413907,e341dadb-926e-4e80-9868-b67c665aefda,Créteil
 node/4798916223,c3c71d8e-6f06-4398-aaad-6328ecef1a23,Cuisy
 node/4798916929,25d5a9d0-78d8-40f8-b3bc-811b7ccf4779,Cély
 way/153368335,a383053e-8ad4-4cc4-9912-65dfd75363a0,Céreste
@@ -205,9 +218,11 @@ way/289357566,3a0e0817-ddb1-4747-8e11-2d1b060fce25,Fontainebleau
 node/9309417812,8f5ff3f2-515b-4ee7-8875-940fbb8414ac,Fontains
 way/201826959,8944bf34-dd64-447a-86b6-8b11b424c959,Fontenailles
 way/115158500,d9af98f8-0206-48b3-9989-e6cba03078aa,Fontenay-Trésigny
+way/105707192,5a8361d8-a990-4e49-913b-83f478d4afaa,Fontenay-sous-Bois
 node/4798915617,d78c4284-ce75-4e58-90d1-bc3cb46cf6cd,Forfry
 node/4267664794,71829fd8-4ab9-43e7-b5bd-853baa4f8234,Forges
 node/4798915898,c9f2680d-163e-4fa9-939c-103688886eac,Fouju
+way/86347713,1f7ef502-3bdd-4fc4-886b-aafee42cbce4,Fresnes
 way/386806084,0ef559e8-8173-441c-9b3d-8243bddded99,Fresnes-sur-Marne
 node/3878103417,b9f3d7c4-08f9-48e0-a094-1a2a48673e47,Fromont
 node/4798916228,51d2cf34-10f3-41de-a2ec-e5fe3558ebe7,Frétoy
@@ -216,6 +231,7 @@ node/4798915603,fae7eb42-f196-45f4-9513-c0452d363186,Féricy
 node/1863066949,9f2ff84d-fa48-44b3-95e4-3d4d1e375f37,Férolles-Attilly
 node/3878093991,a0075470-2ac6-4f9c-bf8b-59760c01e531,Garentreville
 way/219079220,5ec7ddc4-679d-43a4-8339-2ad71b592170,Gastins
+way/81088721,f96392d5-8619-4542-8674-7ecebf1f8b08,Gentilly
 node/4798916235,9abada1d-d16e-4db6-99da-3a01b8182d23,Germigny-l'Évêque
 way/150376631,d86293c7-8da4-4b13-b12c-41a186c4d4cb,Germigny-sous-Coulombs
 node/4798915913,c7649b60-5612-4764-a2c3-b9f80996cae3,Gesvres-le-Chapitre
@@ -254,9 +270,11 @@ way/299920668,3c93c068-d342-4f66-a086-f6a837478efc,Iracoubo
 node/3394552036,edd68eaf-8874-4fbf-9dff-3aa22fa8edc6,Isles-les-Meldeuses
 node/4798913775,d21a5a1e-ab4e-4941-8c98-5e0958383eeb,Isles-lès-Villenoy
 node/4035051195,d4950b57-9d8c-49c5-b49c-56124bec00db,Iverny
+way/263069797,8a2e9935-0178-4b67-8fc7-9e5d3ae84f53,Ivry-sur-Seine
 node/3024644382,6bc365df-b7ac-497c-8d4b-3fba266808c9,Jablines
 node/4798913786,d1e946df-131e-40b9-b54f-330f5dc72462,Jaignes
 node/4243151493,63052fd2-4c29-49c9-877e-a37f98eb3614,Jaulnes
+node/1749496212,23967756-8046-40e3-927a-9f5a1d5e85bf,Joinville-le-Pont
 node/4798915856,0b0ccb97-71d5-4d33-85b4-614119693355,Jossigny
 way/116104968,7193b1f7-fb04-4d4d-a9d2-d1d51a0e1382,Jouarre
 node/4798915902,4f173847-fa56-43b9-92b4-8c25bdde8a3c,Jouy-le-Châtel
@@ -266,6 +284,7 @@ node/3974485343,80443674-10a6-4101-8cf2-08ed89bbc1e5,Jutigny
 node/3854441761,56c7ea77-30b0-4871-a72e-a2ac69cd32be,Kani-Kéli
 node/7088130050,8c7b73f5-7964-42e0-b841-2eb7e6e9be79,Koungou
 way/125092614,1e6fa274-9851-4fb6-82a4-51970221a4cd,L'Ajoupa-Bouillon
+way/124362093,58aaffa3-1baf-4a75-b8f0-36936113dbf6,L'Haÿ-les-Roses
 way/134389169,48931056-a2ba-4eb1-b895-f9e93bdf4e68,L'Étang-Salé
 way/63229797,c0063fb3-66af-47e7-8b8f-7464c8e7843a,L'Île-Saint-Denis
 way/292690761,631e4966-9ed6-43a6-975a-0b9653207211,La Brosse-Montceaux
@@ -290,6 +309,7 @@ way/267500809,14c0d83d-f0fc-4245-a5a5-88bc4e0a00f4,La Madeleine-sur-Loing
 Way/99940874,4b026d7a-0818-46ce-a7a6-17d7776d14b1,La Moncelle
 way/67317511,b18ca6c5-2f9c-4417-b9a3-2695c15a759d,La Plaine-des-Palmistes
 way/147871237,c0c8de37-f768-4ab7-87ee-510c3b0896f0,La Possession
+node/711951886,65bf062f-ef55-4455-94d4-913429d4001b,La Queue-en-Brie
 node/4798915878,add99e18-f74f-473a-8ed9-4ed481803bbd,La Rochette
 node/4798915864,d22f11c2-0a78-4b9f-98b5-94345c937710,La Tombe
 way/287480575,91224c84-fb42-4957-afd7-603a0cdebb29,La Trinité
@@ -306,6 +326,7 @@ way/113312454,999e6c94-c520-4541-820c-d8d36634fa3d,Le Châtelet-en-Brie
 way/919944348,46489f37-863b-4e2f-9be6-790adbd3adb5,Le Diamant
 way/177724734,51f8f2f5-00d0-4f79-8544-031a8270fba9,Le François
 way/47005366,2d2b93f5-c693-4682-9402-c95980c39aba,Le Gosier
+way/67284320,fd400a01-6af8-42e7-b8b2-27aec37a483e,Le Kremlin-Bicêtre
 way/1101746564,029e81ab-67d0-4fad-85ec-f8ac9212ce31,Le Lamentin
 way/181135244,25917ab3-62e8-49a4-87d9-cf8e880993bc,Le Lorrain
 way/125338094,1b0c6a82-5e65-47f0-8f34-ec30ace3a0ed,Le Marigot
@@ -315,9 +336,11 @@ way/179325994,681274a5-9968-4d67-b80a-7f31d4665805,Le Morne-Rouge
 way/125354267,4aeb83c6-be08-4fd0-925b-462c914dd1ef,Le Morne-Vert
 way/130362767,df65a13e-f551-4529-8068-728a61978a25,Le Moule
 way/53046880,2c11f69c-ecff-4ebf-93c8-138bd36d4e61,Le Mée-sur-Seine
+way/149433057,1dab69c4-6208-4a2a-840d-f0e0b2c6c8cb,Le Perreux-sur-Marne
 node/2639777856,9cbdfc77-a231-49bf-9679-221472262fb3,Le Pin
 way/229305971,540437f4-bbe5-410a-8e0a-e4d7d9826b23,Le Plessis-Feu-Aussoux
 node/3039943744,8e786237-2deb-438f-82da-680e3a6dbae4,Le Plessis-Placy
+node/2901068912,37894af9-86eb-449c-9796-6426eb9876d4,Le Plessis-Trévise
 way/277338814,7db3cd47-d60e-480a-ac20-5d8ef13f3c4d,Le Plessis-aux-Bois
 node/4052535829,6ab2f27a-07f7-4447-8a85-0472680cd81e,Le Plessis-l'Évêque
 way/64489671,62564faf-e545-40b9-b466-21d023a6ad52,Le Port
@@ -341,6 +364,7 @@ way/150702992,bc132cf2-2459-4427-b7f4-859918a604e9,Lescherolles
 way/116107938,0cea22b3-84c1-452f-990b-6d192154170f,Lesches
 way/290327907,b5e90358-dfa1-409f-92dd-db1442af1fb7,Leudon-en-Brie
 way/321992693,3111b9d9-2d78-42a6-9a10-5c26d4acd7f7,Lieusaint
+relation/1547760,69ecb49e-fcd9-440f-9438-cbfb208e4257,Limeil-Brévannes
 way/150714697,9b89b801-043e-478e-9d7f-31f0efae985d,Limoges-Fourches
 node/9212904293,c9beacf3-f56e-4acd-97c2-d507d07e028c,Lissy
 node/4798915561,2ac0fee8-8da9-4616-adb9-08009d639407,Liverdy-en-Brie
@@ -367,13 +391,16 @@ node/4798915852,2fdbf170-449b-4887-a7f2-e70f5f2ed139,Maincy
 node/4798915551,67a75587-375c-4ef6-acb1-1420820a12c2,Maison-Rouge
 way/115152662,46c0e861-09b2-4f9a-b60b-d9c4f1d3fc5b,Maisoncelles-en-Brie
 node/4798916940,e68ef451-5f35-4e81-83ad-42eab8f3434d,Maisoncelles-en-Gâtinais
+way/63675330,96ca4e13-4197-4df9-a5af-70d36c537d5b,Maisons-Alfort
 way/1069354300,6415ca5a-f0c2-4fff-8b49-fd8845f141ad,Mamoudzou
 node/3338591311,eb5e1839-06b9-42d8-b61e-35234d4375cd,Mana
+node/11242075248,f795f52b-4eaf-4c77-aa90-5a6e6b3ae4e4,Mandres-les-Roses
 way/151275738,8e997b5d-0de2-4f1f-b23e-d3d264388b0a,Marchémoret
 node/3842874865,12de0592-d622-47b8-b4b6-a8b1729f79e1,Marcilly
 node/1813762830,83219f15-44b6-4b3d-aa30-36b04ab446e3,Mareuil-lès-Meaux
 node/7681325379,09da4690-35a1-4a58-a330-978a068b4985,Maripasoula
 way/150343573,97034cf3-025e-4670-989f-ad8b9fdd8fca,Marles-en-Brie
+node/4798391265,3aa6feab-9740-4259-9911-f973f2fee22f,Marolles-en-Brie
 node/1645440740,94d2822a-9919-41af-ac99-53db26db5e27,Marolles-en-Brie
 way/115260273,2c7af91d-31b8-4c55-8208-0ee081705899,Marolles-sur-Seine
 way/116113169,2058cc83-1a72-445b-aa48-50893af17c29,Mary-sur-Marne
@@ -411,8 +438,8 @@ node/9313128211,67dc4f17-2317-4a58-8381-ffab9ad2a4ac,Montolivet
 node/4590698302,a4e90d3d-8201-4bb7-b5eb-47240ae1da11,Montry
 way/96392025,fdd5ebc5-3743-4287-89de-e53131914f48,Montsinéry-Tonnegrande
 node/8242915097,e7a5e421-25bf-4eb9-96c9-9b6b7f61d8ea,Montévrain
-node/1475296413,9ae98d24-adb8-4336-acde-e709a1d66509 ,Moret-Loing-et-Orvanne
 way/14013581,353b2413-1579-4979-b81f-5e664c1c0437,Moret-Loing-et-Orvanne
+node/1475296413,9ae98d24-adb8-4336-acde-e709a1d66509 ,Moret-Loing-et-Orvanne
 node/1235711693,de9cf1d6-e382-4969-a04e-65832bf8f577,Mormant
 way/41455164,93412414-52eb-4078-bb36-a5747ec2cba1,Morne-à-l'Eau
 way/115161442,2cd4e95a-5f37-4391-b6ba-9739f76f691d,Mortcerf
@@ -434,6 +461,8 @@ way/403663148,adb3667c-3d9f-4db8-88fe-27d7d0237577,Nantouillet
 node/2271103494,418e06a5-3ecd-4c24-9eb4-65dee99e2b3c,Nemours
 way/150306171,adfeaad4-1621-4905-b019-88c4ff7da556,Neufmoutiers-en-Brie
 way/145440091,a78de23f-931b-44dd-bfee-33cc7d1855e1,Neuilly-sur-Marne
+way/472865081,31e5e522-16d2-4da5-bb2c-45e35e6ff585,Nogent-sur-Marne
+way/62480150,89f6214b-cf0f-4ade-92b5-a4278f480e14,Noiseau
 way/116137273,5a19d936-a325-4fb8-9849-12d66e03af8d,Noisiel
 node/4798915587,fb6ad97a-e8af-4893-9dc3-e6049f1b002d,Noisy-Rudignon
 way/84106246,6492d223-530f-4f79-9df9-155e3a564f40,Noisy-le-Sec
@@ -443,8 +472,10 @@ node/1656066438,78e35317-fc9b-4e87-996e-ce3296f2f92b,Noyen-sur-Seine
 way/177043490,8114999c-eb53-4e94-8e03-001785c6d073,Obsonville
 way/116135751,4e213b99-1c02-4004-8a67-3ac1208cf4c9,Ocquerre
 way/397291734,d8a32394-bd4d-45d7-9024-d6cf9cc40c7d,Oissery
+way/143316634,605b6864-7701-4531-80ba-624be68fcbec,Orly
 way/273675728,056083a7-555f-481b-b107-2f76a8e203d1,Orly-sur-Morin
 node/4798916921,953be403-4f92-4ed9-9e8a-7c67bcd7d66c,Ormesson
+way/884862443,9ad9df0b-2600-42e4-ac72-c1442c91a012,Ormesson-sur-Marne
 way/487781126,f491586c-98cc-4e34-a016-a3e9d492c48a,Osmery
 way/169529999,c48d7158-e0fd-428c-85e9-9afe66ac52fb,Othis
 node/6549196926,eeec42e9-07b9-4682-8076-de30854a7bd2,Ouanary
@@ -483,6 +514,7 @@ node/1313079129,25586572-5561-48c3-99b0-5ca06f1af19d,Provins
 way/386799895,64f3d104-ef75-47e6-9765-c0482ec92854,Précy-sur-Marne
 node/9309443737,23f33684-bb94-4762-9613-23d0a0e196d1,Puisieux
 node/4798913803,856e1515-83b8-4da0-85a0-f01f7c846155,Pécy
+node/4124636705,e449f075-091d-4a98-b2a5-e7d3fe524af8,Périgny
 node/4798915855,ce3522c7-5b09-4303-87e6-fc9ddfd7c176,Pézarches
 node/4798915883,86351002-22ca-4ff8-a1aa-f50f4e64cd78,Quiers
 way/116158619,6fe53a3d-a44a-42b1-be3f-9668cd2e3a3a,Quincy-Voisins
@@ -502,6 +534,7 @@ node/3731471228,5e1ab8c6-78d5-46e8-b981-46991ade4a75,Rouvres
 way/229305436,b90034ba-d746-43c1-bda3-4c2e98d2ba0c,Rozay-en-Brie
 node/4798915608,6e544638-0e02-44c5-99b4-0b8c4f655fee,Rubelles
 way/240867010,51a11499-ade3-49e7-9158-ec5c1d4be09d,Rumont
+way/126142613,89c7071a-82b5-46ea-9759-1e264dea64ba,Rungis
 node/3976679086,f12b8710-faf5-4e57-a831-131934fa275d,Rupéreux
 way/114154173,02a98718-7feb-48d2-a9ba-1d21aba1ac45,Réau
 node/1162465237,a1cab6a4-e20d-452d-9954-79cf5bccfc16,Régina
@@ -538,11 +571,14 @@ node/4235932892,49b6b297-9449-4d18-968f-709489d42bee,Saint-Loup-de-Naud
 way/292817902,e739b409-e69b-4e3f-ab7e-78b47609fec2,Saint-Léger
 node/4909500063,07c24ad9-f03c-44f0-971a-8274ee27fb38,Saint-Macoux
 way/254812855,bc0bc72f-2d4b-40f7-98e8-2e82d8bec2c7,Saint-Mammès
+way/147360889,d4e96674-1d57-40ec-9a9b-9eede7a61f94,Saint-Mandé
 way/200535329,4d0464de-81b7-461f-a507-2f5e497677fd,Saint-Mard
 node/4455210395,a38b3257-447c-498d-99c7-e1a54212497f,Saint-Mars-Vieux-Maisons
 node/4798913811,79dd888b-7a03-4648-a3a4-abd2e57d56e7,Saint-Martin-des-Champs
 node/4798915595,fe751009-ae72-4397-b476-5ae1ae5c191e,Saint-Martin-du-Boschet
 node/367961019,21f84e16-b358-4611-9f43-d2d2fe1f5795,Saint-Martin-en-Bière
+way/175415108,fdbc95e4-79f7-45e4-9a1f-f2463d07a26a,Saint-Maur-des-Fossés
+way/149388160,9049999d-0998-42c8-b94c-c44d41104098,Saint-Maurice
 node/9309443748,5bb27538-f29c-4cfa-8b8e-6970afdf1346,Saint-Mesmes
 way/161081046,667cf606-8436-4d52-81bb-2a32cae60068,Saint-Méry
 way/114170414,e7723792-dbee-4421-bb7c-a71fe52c86e4,Saint-Ouen-en-Brie
@@ -562,8 +598,8 @@ node/4631857292,819c8e8f-a8ef-49ca-9f6b-f6dd7cc9c311,Saint-Soupplets
 way/62877103,a6914111-dd2f-4dfb-8655-13021282d10b,Saint-Sulpice-de-Cognac
 node/10116615167,c823a8ac-b938-47cd-8f09-dd0f48aa38ba,Saint-Sulpice-en-Pareds
 way/116183961,0add9454-d894-4dc7-8f9e-7fc85387658d,Saint-Thibault-des-Vignes
-way/84847880,04b7d5c8-f0b3-4c93-97e8-8fca136990eb,Sainte-Anne
 way/124917794,389adc13-7c67-4282-9819-33fb4533b7a0,Sainte-Anne
+way/84847880,04b7d5c8-f0b3-4c93-97e8-8fca136990eb,Sainte-Anne
 node/9309443717,826a86fc-e8f2-49a7-8900-01c8bcd51210,Sainte-Aulde
 node/4798915919,db088f42-5da0-45c7-8b8b-7b023b8a34a8,Sainte-Colombe
 way/181164271,be063e2e-bd55-4306-9b9c-75b6b6ca3c53,Sainte-Luce
@@ -579,6 +615,7 @@ way/115283216,8b67241c-fe9e-4f0b-8037-e08361df28f6,Samois-sur-Seine
 node/4114454539,b68c852b-72d1-4094-abb9-d9313cce474a,Samoreau
 node/4011197294,de095095-6221-4464-b639-5924ff35760a,Sancy
 node/3976711422,fa4060ac-ea2a-4961-8622-25e0adcf7a48,Sancy-lès-Provins
+node/4798391264,a7ea59de-9060-4279-82c8-e6e2cf2f4e85,Santeny
 way/112255003,9c0ef37d-8a4f-4e5f-a319-ab03a010d237,Savigny-le-Temple
 node/1512016470,44b1dfff-c72f-4b20-88ae-9ba3955d08bd,Savins
 way/116160300,2e97da1f-ae48-436d-8744-a7e5dc0e6ffd,Saâcy-sur-Marne
@@ -602,9 +639,11 @@ way/115296683,373476d2-2008-44bf-b743-4b323733224c,Souppes-sur-Loing
 way/115350387,9d4ca326-2a0d-40d4-b1b3-92f9b69977cc,Sourdun
 way/90106450,d7d747f4-68a0-4408-a20b-8d00ea29f918,St-Saviol
 way/77631184,cc345e8e-4162-4e4a-920d-516f1312858b,Stains
+way/63502941,c5fd3587-8c4f-4da0-b099-7297191b0051,Sucy-en-Brie
 way/150385570,562f564f-ba99-40a6-af5e-be65b6a0f40d,Tancrou
 way/41559737,86341619-7047-425d-8f5b-bb72ac8f226c,Terre-de-Bas
 way/42101786,d62e5ed7-d10b-4c3b-96ff-eb6f90b6bdec,Terre-de-Haut
+way/143499974,36fc9079-e913-47c1-97aa-382aad941eee,Thiais
 way/402938124,bff7e10b-db48-4655-885f-500b9109c9bd,Thieux
 way/80557499,fff18490-6b35-46db-85b3-22d006eaa88a,Thomery
 way/116220093,8075567f-e319-4494-a531-348ecb8a5a20,Thorigny-sur-Marne
@@ -628,6 +667,7 @@ way/115280586,7befb79b-2139-46c2-84b8-f19fca8890ff,Ury
 node/4798916943,5dc5413c-6b1a-4b76-945c-1897cd7ba2e7,Ussy-sur-Marne
 way/377855538,75aaf4fb-ea0e-48e5-8522-22dfa64d8cb2,Vaires-sur-Marne
 node/4798915858,349f47dc-92b8-4d2a-9412-0fa77d7d7781,Valence-en-Brie
+way/85328597,6adbd78b-6478-4a5f-9871-c1284dc2a795,Valenton
 way/161060060,fed2bfb8-9af3-4b27-bd94-89e323bf8ab5,Vanvillé
 node/444027001,00ac2ecb-969f-4568-868b-31a6adad325e,Varennes-sur-Seine
 node/1701323426,a6ec01ad-9b5b-4972-a669-a8efe9bb5901,Varreddes
@@ -648,6 +688,8 @@ way/109503628,6c97a2b2-4494-454b-9712-a7812a6d7850,Vignely
 way/294987106,dc601f1b-fbc7-411e-9ea2-34ac1e9cc278,Ville-Saint-Jacques
 way/277524845,cdb413f1-ad13-4771-b0db-9dc593d7c4cd,Villebéon
 way/294987260,68a874dc-dcbb-4a2d-b792-a10fe6e11376,Villecerf
+node/2789767915,9be84551-9001-404d-92ee-ab88ac8c775b,Villecresnes
+way/64425028,734b028d-38ae-47be-8549-641968a0aaa1,Villejuif
 node/4007416037,a8f83738-16ef-4f8a-986e-6a484414a3c3,Villemareuil
 node/4798915909,42900dc5-9a2f-4f1a-909e-1598121c0742 ,Villemaréchal
 node/3243929081,7b29b528-ef41-4078-8472-0bf9ff3c6912 ,Villemaréchal
@@ -655,7 +697,9 @@ node/4798915876,a1719049-d69e-4d5e-9d60-aea2f28c6806,Villemer
 way/144282767,079084a1-fc40-4c65-916a-cfa1c9d09558,Villemomble
 node/2739384532,cc742a80-8387-4b87-9d9c-c46bf51b7450,Villenauxe-la-Petite
 way/369263925,57cc1df4-c37e-40a8-abae-9e29723ffe0e,Villeneuve-Saint-Denis
+way/137173751,f01dcc70-1cc3-4d30-88e5-69c70c23ad61,Villeneuve-Saint-Georges
 way/372839635,cd45e707-f378-4a1a-ae26-6e82dbae419f,Villeneuve-le-Comte
+way/70867562,f35d276e-79a2-496b-ad68-e7f53be7e9a7,Villeneuve-le-Roi
 way/284070609,89bc183c-a874-4d99-81c2-9950896d8e4c,Villeneuve-les-Bordes
 node/4798913794,360acf9f-8b09-4013-a373-06a865fc19b4,Villeneuve-sous-Dammartin
 node/4798913770,beb46751-439d-4470-b8a4-90efd842108c,Villeneuve-sur-Bellot
@@ -667,12 +711,15 @@ node/4798916229,bb915269-5ed3-4a71-acb5-86e48c6f5414,Villevaudé
 node/4798915564,f8606ee7-6996-4855-be26-c9396e49d3b7,Villiers-Saint-Georges
 node/4798915896,75450598-8290-4f2e-ae3c-58805448b017,Villiers-en-Bière
 way/290344884,b489a6af-2042-4234-b9aa-6e1773bc9471,Villiers-sous-Grez
+way/25278391,66b5d2c8-dacf-4d76-b310-5777a1eb2f67,Villiers-sur-Marne
 node/9309443760,4b54bb84-d00d-410a-8d24-23ee7713082f,Villiers-sur-Morin
 way/293005858,e9345b53-5c05-4fdb-bb37-38e860015e3d,Villiers-sur-Seine
 node/4798915610,6f2eb1b3-6151-43f7-87ae-82aadb30cbfe,Villuis
 way/318407901,a9d65b06-0a99-411d-9705-d4127690a7a4,Vimpelles
 way/140654794,849e84de-384e-4612-95e8-470f1b87d525,Vinantes
+way/83816816,d29d393e-ed35-458c-9fb8-af0cffbd37cb,Vincennes
 node/9309443736,e5724096-8655-4db7-8b2c-ec4d26943df9,Vincy-Manœuvre
+relation/1878304,a5a8409d-f4ce-42cf-9f23-a4001fbaac90,Vitry-sur-Seine
 way/229310448,0b83f59e-0590-4d23-b40d-d8734b5fdca0,Voinsles
 way/115134642,0d7673a9-ef28-41e2-901f-89c8eb76e1e5,Voisenon
 node/4798916945,c1ae33ce-edd2-40f7-911e-2e439f8f08a7,Voulangis
