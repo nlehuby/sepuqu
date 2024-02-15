@@ -40,6 +40,9 @@ jobs:
     - name: Focus
       run: |
         qsv join id focus.csv id output/services_publics.csv |qsv select categorie,official_name,branch,name,contact:phone,contact:website,contact:email,ref:FR:SIRET,longitude,latitude,address_txt,wheelchair,wheelchair:description,opening_hours,insee,id,osm_id > output/focus_with_osm.csv
+    - name: Pole Emploi
+      run: |
+        cat output/services_publics.csv |qsv search -s categorie '^france_travail' | qsv select categorie,official_name,longitude,latitude,address_txt,opening_hours,insee,id > output/france_travail.csv        
     - name: Deploy
       if: ${{ github.ref == 'refs/heads/main' }}
       uses: peaceiris/actions-gh-pages@v3
