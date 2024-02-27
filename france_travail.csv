@@ -55,7 +55,7 @@ france_travail,France Travail - Carpentras,5.0449294,44.0593309,  158 allée des
 france_travail,France Travail - Avallon,3.916829,47.491398,  62 rue de Lyon 89200 Avallon,Mo-Fr 08:30-12:30,89025,1664c1d4-3ced-43a0-964a-d69e58b73786
 france_travail,France Travail - Saint-Étienne - Terrasse,4.37806399,45.4636674,  12 allée des Artilleurs 42000 Saint-Étienne Cedex 1,Mo-Fr 08:30-12:30,42218,175a07c1-7eec-4392-8dc2-c7dffa304e36
 france_travail,France Travail - Corte,9.14985660000002,42.3102334,  34 cours Paoli 20250 Corte,Mo-Th 08:30-12:30; Fr 08:30-11:30,2B096,17aa7cc2-ee93-46de-82e5-71180371de00
-france_travail,France Travail - Oullins,4.80996779,45.7203688,  18 Grande rue 69600 Oullins Cedex,Mo-Fr 08:30-12:30,69149,182ffe95-be81-49eb-bb97-e1774a3e12a0
+france_travail,France Travail - Oullins-Pierre-Bénite,4.80996779,45.7203688, Oullins 18 Grande rue 69600 Oullins-Pierre-Bénite Cedex,Mo-Fr 08:30-12:30,69149,182ffe95-be81-49eb-bb97-e1774a3e12a0
 france_travail,France Travail - Handipass,2.38273789,48.8641824,  3 rue des Nanettes 75011 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75111,18d3ff14-a653-4dfa-ae06-b33dcf00df29
 france_travail,France Travail - Évreux - Delaune,1.159293,49.005783,  6 rue Auguste-Delaune 27000 Évreux Cedex,Mo-Fr 08:30-12:30,27229,195be204-d1d3-45ec-bf85-226f492f59a0
 france_travail,France Travail - Pe Mamoudzou - Kaweni,45.2278,-12.7806,  90 route nationale 1 97600 Mamoudzou,Mo-Tu 07:30-16:00; We 07:30-13:00; Th 07:30-16:00; Fr 07:30-11:30,97611,1a312e72-c773-4b05-bc64-f48d4b19aeaf
@@ -636,7 +636,7 @@ france_travail,France Travail - Guéret,1.8808571,46.172474,  19 avenue Pierre-L
 france_travail,France Travail - Vesoul,6.1559043,47.6234719,  4 rue du Docteur-Jean-Girard 70000 Vesoul Cedex,Mo-Fr 08:30-12:30,70550,c9a71891-79e3-4c37-9fb8-0dfee1ff4812
 france_travail,France Travail - Rezé,-1.55550470000003,47.1933823,  7 rue Eugène-Orieux 44402 Rezé,Mo-Fr 08:30-12:30,44143,c9ca8a11-c3b3-4a17-a848-702c4c20b2ce
 france_travail,France Travail - Calais - Saint-Exupéry,1.8938305,50.9462814,  60 avenue Antoine-de-Saint-Exupéry 62100 Calais,Mo-Th 08:30-12:45; Fr 09:00-12:00,62193,c9d33567-eda1-474c-ac67-2cf1cdccd1b2
-france_travail,France Travail - Orléans - Sud,1.93303834393725,47.83754187986567,  18 avenue de la Bolière 45000 Orléans,Mo-Fr 08:45-12:45,45234,c9e06451-3d11-47a4-8e11-12a43b4bcd95
+france_travail,France Travail - Orléans - Sud,1.932974,47.837235,  18 avenue de la Bolière 45000 Orléans,Mo-Fr 08:45-12:45,45234,c9e06451-3d11-47a4-8e11-12a43b4bcd95
 france_travail,France Travail - Vendôme,1.0608285665512085,47.798828125,  5 rue Denis-Diderot 41100 Vendôme Cedex,Mo-Fr 08:45-12:45,41269,c9e3ba6e-12e2-4ea8-88ca-0c20271d26fd
 france_travail,France Travail - Saint-Pierre-des-Corps,0.7097268,47.3858679,  55 avenue Georges-Pompidou 37700 Saint-Pierre-des-Corps,Mo-Fr 08:45-12:45,37233,c9ec11b0-cc80-4ce1-a316-316cc7bd7c5e
 france_travail,France Travail - Cergy,2.0767365,49.0406104,  4 rue des Chauffours 95000 Cergy,Mo-Th 09:00-13:15; Fr 09:00-12:00,95127,ca1e6405-f736-478f-b481-817220efbbd0
