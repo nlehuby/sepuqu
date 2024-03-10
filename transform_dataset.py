@@ -207,7 +207,7 @@ for feature in data["service"]:
         feature_address["numero_voie"],
         feature_address["code_postal"],
         feature_address["nom_commune"],
-    )
+    ).strip()
     elem["wheelchair"] = wheelchair_mapping[feature_address["accessibilite"]]
     elem["wheelchair:description"] = feature_address["note_accessibilite"]
     
