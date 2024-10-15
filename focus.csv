@@ -85,7 +85,7 @@ way/66440877,597b1720-8653-4ef4-b838-4841be6e62f4,Basse-Terre
 node/4798916224,bf28b298-8653-4574-8b0a-2b7cb2050964,Bassevelle
 node/3499072811,ceae1b0c-81e6-4330-b580-79bac151c6e1,Baulne
 node/988712796,762949f5-7e8d-4c2b-92c9-3927b5579cc2,Bazainville
-Node/1874175052,f41a7534-4726-4dbd-87eb-22a7265df94f ,Bazeilles
+node/1874175052,f41a7534-4726-4dbd-87eb-22a7265df94f ,Bazeilles
 node/11036356623,484a9c9c-5c74-468a-8c1d-478a2cb1c099,Bazemont
 node/4798915547,a29a7925-47ef-4067-a238-4dde33496e13,Bazoches-lès-Bray
 node/2383709781,c7441370-9f1d-4997-8b29-44bed8bc0eda,Bazoches-sur-Guyonne
@@ -94,7 +94,7 @@ node/4798915893,d9f90879-52f2-41d8-a9e0-534d09b68ad8,Beauchery-Saint-Martin
 way/115180931,a1990c6f-d1f1-4141-87a7-03ac3d3f8bdc,Beaumont-du-Gâtinais
 way/167629659,2a3cb556-8961-450b-9b94-395f95453bb0,Beaumont-sur-Oise
 node/1645394958,04ec2d67-66fb-4121-a26a-a4e0ad69fdeb ,Beautheil-Saints
-Way/115175552,5a81c3c0-991f-44ef-a699-d17e79fe96ad,Beautheil-Saints
+way/115175552,5a81c3c0-991f-44ef-a699-d17e79fe96ad,Beautheil-Saints
 way/362629172,64f83220-e577-42ce-90b7-1dd2472c1239,Beauvoir
 way/131930801,9492daac-0ea2-4b97-bab5-197e2f232767,Bellefontaine
 way/125079898,c4a22c3e-ccbd-4c9d-bc5f-45b45faba22d,Bellefontaine
@@ -109,7 +109,7 @@ node/7618324588,225244ee-f6b9-43c1-a948-9cf53311b680,Beton-Bazoches
 way/63065068,30d2e77c-ef7c-47d5-8ec1-d6a6269088b5,Beynes
 way/148480154,129237e7-24ed-4f75-a6df-93059d1e7a4a,Bezalles
 way/387315533,9eb6008b-eac3-43bc-b7d4-317cbaadda96,Bezons
-Way/158617134,80093178-986c-488b-8b76-59b995747e75,Bians-les-Usiers
+way/158617134,80093178-986c-488b-8b76-59b995747e75,Bians-les-Usiers
 way/70456515,2b4625db-0190-43c9-bbfb-fedd9b4dd96d,Bièvres
 way/330255741,51728fb3-56f9-4ebc-ac73-d07c996f1ca8,Blandy
 way/113274452,62cf2ba0-fab3-496e-9c88-72609a7ac5e2,Blandy
@@ -274,7 +274,7 @@ way/161044237,5de54c6b-def3-4b27-912d-a8cf74e0885a ,Chenoise-Cucharmoy
 node/4798915881,fab144cc-9570-4bcd-ab19-32d996daaba3,Chenoise-Cucharmoy 
 node/4798915873,207c73b7-b5d6-4c2f-91a7-06548ea00804,Chenou
 way/107365740,ca8b6b48-23a1-406b-9063-9217ef90ce2c,Cheptainville
-Way/47289619,5e8502cb-b69c-418f-b4a3-22816d5b1497 ,Cherves-Richemont
+way/47289619,5e8502cb-b69c-418f-b4a3-22816d5b1497 ,Cherves-Richemont
 node/4798915853,3eb2cdd2-35a5-45f4-b2b8-9067eb7f37f7,Chessy
 node/9309413563,8e4fe185-38f3-425d-8aa2-e34169874d3a,Chevannes
 way/155546358,1e673c75-155c-4085-a4d6-682378638a7d,Chevilly-Larue
@@ -608,7 +608,7 @@ node/4072548387,0fbaf2a6-1cf7-48c5-9759-b459cad7a236,La Haute-Maison
 way/253366288,1c2ef89d-b0c8-46d0-9f8b-7157086c6635,La Hauteville
 node/4798916225,fe6b78be-9e62-4bdb-97fd-64c4528a75f2,La Houssaye-en-Brie
 way/267500809,14c0d83d-f0fc-4245-a5a5-88bc4e0a00f4,La Madeleine-sur-Loing
-Way/99940874,4b026d7a-0818-46ce-a7a6-17d7776d14b1,La Moncelle
+way/99940874,4b026d7a-0818-46ce-a7a6-17d7776d14b1,La Moncelle
 node/2515696384,7f7a5a82-6ab5-4ee9-9ab6-dd6530cbad2c,La Norville
 way/67317511,b18ca6c5-2f9c-4417-b9a3-2695c15a759d,La Plaine-des-Palmistes
 way/147871237,c0c8de37-f768-4ab7-87ee-510c3b0896f0,La Possession
@@ -1223,7 +1223,7 @@ way/201830219,b69fe33a-ac4d-49f5-bc41-d6fbeed46210,Soignolles-en-Brie
 node/11093213802,c174fa21-8e1a-4e2f-818f-3d3ef9f3a49a,Soindres
 node/2965579743,b956d9bc-efd4-4997-a248-009db93b691e,Soisy-Bouy
 way/146777763,0e4a954e-774f-4b96-8142-ed35f34eeac5,Soisy-sous-Montmorency
-way/359429401,17628ba7-3ad0-48de-8bde-e0def65c535f,Soisy-sur-Seine
+node/12248424112,17628ba7-3ad0-48de-8bde-e0def65c535f,Soisy-sur-Seine
 node/3500669212,2e68435d-59de-4b59-bf6f-d09690168892,Soisy-sur-École
 node/4798913816,5b3511e4-12cb-419c-96b7-5ad968ba8c31,Solers
 way/158616708,fcfc0bcd-c7c5-4562-9f94-b5621aa498f1,Sombacour
