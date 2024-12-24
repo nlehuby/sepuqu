@@ -7,10 +7,10 @@ france_travail,France Travail - Corbeil-Essonnes,2.4848873,48.6119892,14 quai Ja
 france_travail,France Travail - Chalon - Nord,4.861898,46.800252,19 avenue John-Fitzgerald-Kennedy 71100 Chalon-sur-Saône,Mo-Fr 08:30-12:30,71076,04b3fcce-3d7a-4040-932b-dff70a98e826
 france_travail,France Travail - Elbeuf,1.0043178,49.2854741,39 rue Poussin 76500 Elbeuf Cedex,Mo-Fr 08:30-12:30,76231,05f2b733-7010-4473-8e01-ee1321f7cc19
 france_travail,France Travail - Lille - République,3.05968,50.6331279,121 boulevard de la Liberté 59000 Lille,Mo-Th 08:30-12:45; Fr 09:00-12:00,59350,0622448a-aac1-4357-a0b6-dbfdb17b6c31
-france_travail,France Travail - Lormont,-0.5182007,44.876407,4 rue Romain-Rolland 33310 Lormont Cedex,Mo-Fr 08:30-12:30,33249,06683094-103e-4084-932b-72ff9ed0fc58
+france_travail,France Travail - Lormont,-0.5182007,44.876407,4 rue Romain-Rolland 33310 Lormont,Mo-Fr 08:30-12:30,33249,06683094-103e-4084-932b-72ff9ed0fc58
 france_travail,France Travail - Aéroportuaire - Roissy-Charles-de-Gaulle,2.5230305,48.9940943,5 rue du Cercle 95700 Roissy-en-France Cedex,Mo-Th 09:00-13:15; Fr 09:00-12:00,95527,066cdef9-1315-4868-9333-602abc75f010
 france_travail,France Travail - Colmar - Lacarre,7.3559056,48.0871597,45 rue de la Fecht 68000 Colmar,Mo-Fr 08:30-12:30,68066,06a1e86c-0e18-4ff5-a9f4-a9a400043178
-france_travail,France Travail - Roussillon,4.80443109999999,45.3634405,8 rue Anatole-France 38150 Roussillon Cedex,Mo-Fr 08:30-12:30,38344,06e2cd44-9960-4297-90ab-b9c6d435fd66
+france_travail,France Travail - Roussillon,4.804285623,45.363328983,8 rue Anatole-France 38150 Roussillon,Mo-Fr 08:30-12:30,38344,06e2cd44-9960-4297-90ab-b9c6d435fd66
 france_travail,France Travail - Gisors,1.7648238,49.282877,30 rue Riegelsberg 27140 Gisors,Mo-Fr 08:30-12:30,27284,071eb598-d06e-41f1-811b-b19ee2f85c9f
 france_travail,France Travail - Beaune,4.844512,47.009217,7 rue Buffon 21200 Beaune,Mo-Fr 08:30-12:30,21054,07d68c38-7e99-43af-a10f-dc0c0fe62172
 france_travail,France Travail - Langres,5.3266359,47.8489637,29 avenue du Général-de-Gaulle 52200 Langres Cedex,Mo-Fr 08:30-12:30,52269,087cec28-3d36-4522-949f-2c5cb8bc74dd
@@ -27,18 +27,18 @@ france_travail,France Travail - Nontron,0.6605315,45.5253873,Place Paul-Bert 243
 france_travail,France Travail - Gonesse,2.4559841,48.9822268,10 rue Berthelot 95500 Gonesse,Mo-Th 09:00-13:15; Fr 09:00-12:00,95277,0cb35435-b255-4a9b-8f66-1e8655f5c1fe
 france_travail,France Travail - Cherbourg - Provinces,-1.634504,49.626541,2 rue de Touraine 50130 Cherbourg-en-Cotentin,Mo-Fr 08:30-12:30,50129,0d581b48-c700-4811-9f9d-87a8e4a70a6b
 france_travail,France Travail - Saint-Junien,0.9048253,45.8906432,2 avenue Anatole-France 87200 Saint-Junien Cedex,Mo-Fr 08:30-12:30,87154,0d86674c-d563-46d7-869d-c2ba73392bb7
-france_travail,France Travail - Bordeaux - Mériadeck,-0.576144,44.8373682,1 terrasse Front-du-Médoc 33000 Bordeaux Cedex,Mo-Fr 08:30-12:30,33063,0e3dfb4c-53cc-4d78-8a94-6b4a4c374f41
+france_travail,France Travail - Bordeaux - Mériadeck,-0.576144,44.8373682,1 terrasse Front-du-Médoc 33000 Bordeaux,Mo-Fr 08:30-12:30,33063,0e3dfb4c-53cc-4d78-8a94-6b4a4c374f41
 france_travail,France Travail - Saint-Joseph,55.621133999999984,-21.3765632,40 rue du Général-de-Gaulle 97480 Saint-Joseph,Mo-Fr 07:30-11:30; We 07:30-13:00; Th-Fr 07:30-11:30,97412,0e69b667-3d20-4238-98e3-ddefc09ddbab
 france_travail,France Travail - Briey,5.9420487,49.2428598,2 rue de la Filature 54150 Briey Cedex,Mo-Fr 08:30-12:30,54099,0e9ec8c1-9325-4972-bca6-cc6bd9e99d92
 france_travail,France Travail - Luxeuil,6.3733555,47.8157337,1 rue Bourgeline 70300 Luxeuil-les-Bains,Mo-Fr 08:30-12:30,70311,0f0054e6-22e4-4416-9061-fcb0faf8bec2
 france_travail,France Travail - Forbach - Carrefour-Europe,6.8984319,49.1859375,1 rue du 18e-Chasseur 57600 Forbach Cedex,Mo-Fr 08:30-12:30,57227,107dd788-5970-4cbe-a0f0-6e4bd5e4ba63
 france_travail,France Travail - Blagnac,1.3767879,43.6450248,11 mail Louis-Aragon 31700 Blagnac,Mo-Fr 08:30-12:30,31069,10969ad7-8b4b-4d2a-9644-b46f17cb7249
-france_travail,France Travail - Fontaine,5.69567949,45.1912793,26 rue de la Liberté 38600 Fontaine Cedex,Mo-Fr 08:30-12:30,38169,10fd6092-acf7-4687-97b5-8532f864052c
-france_travail,France Travail - Pont-de-Claix,5.6976627,45.123309,1 avenue du Maréchal-Juin 38800 Le Pont-de-Claix Cedex,Mo-Fr 08:30-12:30,38317,11594dd1-f80f-4b94-a44c-214fe6800c95
+france_travail,France Travail - Fontaine,5.69567949,45.1912793,26 rue de la Liberté 38600 Fontaine,Mo-Fr 08:30-12:30,38169,10fd6092-acf7-4687-97b5-8532f864052c
+france_travail,France Travail - Pont-de-Claix,5.6976627,45.123309,1 avenue du Maréchal-Juin 38800 Le Pont-de-Claix,Mo-Fr 08:30-12:30,38317,11594dd1-f80f-4b94-a44c-214fe6800c95
 france_travail,France Travail - Gardanne,5.449801,43.519578,Rue Jules-Ferry 13120 Gardanne,Mo-Fr 08:30-12:30,13041,11757fa0-f46a-432d-9969-f28472b5b0b0
 france_travail,France Travail - Castelnaudary,1.9519876,43.3196972,11 boulevard du Général-Lapasset 11400 Castelnaudary,Mo-Fr 08:30-12:30,11076,11b14e98-5f83-47d8-85a0-549ea2ace6be
 france_travail,France Travail - Parthenay,-0.2482249,46.6453581,13 boulevard Edgar-Quinet 79200 Parthenay Cedex,Mo-Fr 08:30-12:30,79202,129af3a4-7bcd-4ec3-905a-d1e36adf34e2
-france_travail,France Travail - Parentis,-1.070813600000065,44.3531122,113 allée Malichecq 40160 Parentis-en-Born,Mo-Fr 08:30-12:30,40217,136c619b-f591-47c0-be5d-7615de547cc2
+france_travail,France Travail - Parentis,-1.07120519,44.35080567,113 allée Malichecq 40160 Parentis-en-Born,Mo-Fr 08:30-12:30,40217,136c619b-f591-47c0-be5d-7615de547cc2
 france_travail,France Travail - Saint-Éloy,2.8349007,46.1608054,6 rue des Bayons 63700 Saint-Éloy-les-Mines,Mo-Fr 08:30-12:30,63338,1399a078-5d69-4893-9377-d42aeed8913e
 france_travail,France Travail - Lyon - Scènes-et-Images,4.87491,45.77295,41 A rue Colin 69100 Villeurbanne,Mo-Fr 08:30-12:30,69266,13bc1f35-dbda-4339-b99e-701e572c158d
 france_travail,France Travail - Cannes,6.968311,43.559681,156 Avenue Michel-Jourdan 06400 Cannes,Mo-Fr 08:30-12:30,06029,1422a144-89fa-4e7a-b5a6-2368277c5d74
@@ -53,13 +53,12 @@ france_travail,France Travail - Strasbourg - Pont-Matthis,7.7352072,48.5778177,2
 france_travail,France Travail - Hénin-Beaumont,2.9343994,50.4295786,91 rue de la Perche 62110 Hénin-Beaumont,Mo-Th 08:30-12:45; Fr 09:00-12:00,62427,16321c03-d0fb-4c49-b035-58b63ec2b600
 france_travail,France Travail - Carpentras,5.0449294,44.0593309,158 allée des Tilleuls 84200 Carpentras,Mo-Fr 08:30-12:30,84031,16326b3b-4087-48a7-afea-322cb81f03ff
 france_travail,France Travail - Avallon,3.916829,47.491398,62 rue de Lyon 89200 Avallon,Mo-Fr 08:30-12:30,89025,1664c1d4-3ced-43a0-964a-d69e58b73786
-france_travail,France Travail - Saint-Étienne - Terrasse,4.37806399,45.4636674,12 allée des Artilleurs 42000 Saint-Étienne Cedex 1,Mo-Fr 08:30-12:30,42218,175a07c1-7eec-4392-8dc2-c7dffa304e36
 france_travail,France Travail - Corte,9.14985660000002,42.3102334,34 cours Paoli 20250 Corte,Mo-Th 08:30-12:30; Fr 08:30-11:30,2B096,17aa7cc2-ee93-46de-82e5-71180371de00
 france_travail,France Travail - Oullins-Pierre-Bénite,4.80996779,45.7203688,Oullins 18 Grande rue 69600 Oullins-Pierre-Bénite Cedex,Mo-Fr 08:30-12:30,69149,182ffe95-be81-49eb-bb97-e1774a3e12a0
 france_travail,France Travail - Handipass,2.38273789,48.8641824,3 rue des Nanettes 75011 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75111,18d3ff14-a653-4dfa-ae06-b33dcf00df29
 france_travail,France Travail - Évreux - Delaune,1.159293,49.005783,6 rue Auguste-Delaune 27000 Évreux Cedex,Mo-Fr 08:30-12:30,27229,195be204-d1d3-45ec-bf85-226f492f59a0
 france_travail,France Travail - Pe Mamoudzou - Kaweni,45.2278,-12.7806,90 route nationale 1 97600 Mamoudzou,Mo-Tu 07:30-16:00; We 07:30-13:00; Th 07:30-16:00; Fr 07:30-11:30,97611,1a312e72-c773-4b05-bc64-f48d4b19aeaf
-france_travail,France Travail - Bordeaux - Bastide,-0.5556836,44.8375672,4 rue René-Buthaud 33000 Bordeaux Cedex,Mo-Fr 08:30-12:30,33063,1b04effb-d6d3-48ed-9f55-4c5ce0dae7af
+france_travail,France Travail - Bordeaux - Bastide,-0.5556836,44.8375672,4 rue René-Buthaud 33000 Bordeaux,Mo-Fr 08:30-12:30,33063,1b04effb-d6d3-48ed-9f55-4c5ce0dae7af
 france_travail,France Travail - Hayange,6.0628525,49.3318585,13 rue de la Marne 57240 Hayange Cedex,Mo-Fr 08:30-12:30,57306,1b2c827a-52bc-4f0f-86a8-02de3b94662b
 france_travail,France Travail - Decazeville,2.2510881,44.5596012,Avenue du 10-Août 12300 Decazeville,Mo-Fr 08:30-12:30,12089,1b76ef67-a30c-4649-883c-3ecbc8dd07c3
 france_travail,France Travail - Sarreguemines,7.070622,49.1090447,42 rue Poincaré 57200 Sarreguemines Cedex,Mo-Fr 08:30-12:30,57631,1b888680-b993-4ecd-982e-bd4b883a10e9
@@ -69,7 +68,7 @@ france_travail,France Travail - Méru,2.12402329,49.2311224,6 rue du 8-Mai-1945 
 france_travail,France Travail - Chalon - Centre,4.8448222,46.7806699,TSA  27 avenue Georges-Pompidou 71100 Chalon-sur-Saône Cedex,Mo-Fr 08:30-12:30,71076,1c4021f3-ff2e-4371-b551-c4ef4711477d
 france_travail,France Travail - Montluçon - Sud,2.6083009,46.3454174,51 avenue du Général-de-Gaulle 03100 Montluçon Cedex,Mo-Fr 08:30-12:30,03185,1c435d67-b210-4ef2-8d52-1b6327f06dbd
 france_travail,France Travail - Juvisy-sur-Orge,2.3713366,48.6958478,83 avenue de la Cour-de-France 91260 Juvisy-sur-Orge,Mo-Th 09:00-14:00; Fr 09:00-12:00,91326,1cd0dbf2-09bf-4e20-97e9-f2cf5aed43b2
-france_travail,France Travail - La Tour-du-Pin,5.44038709,45.5662479,8 rue Pierre-Vincendon 38110 La Tour-du-Pin,Mo-Fr 08:30-12:30,38509,1cd9fc07-fb03-4fbb-85ab-24d362c7af65
+france_travail,France Travail - La Tour-du-Pin,5.443970959,45.564947988,39 boulevard Gambetta 38110 La Tour-du-Pin,Mo-Fr 08:30-12:30,38509,1cd9fc07-fb03-4fbb-85ab-24d362c7af65
 france_travail,France Travail - Crest,5.010542,44.735109,4 avenue Félix-Rozier 26400 Crest,Mo-Fr 08:30-12:30,26108,1ce7efde-4c48-4eee-a025-306950173cd8
 france_travail,France Travail - Saint-Astier,0.527419555,45.149055088,Boulevard Pierre-Mallebay 24110 Saint-Astier,Mo-Fr 08:30-12:30,24372,1d4777b7-0c1e-4e3f-9fbf-383e569a2dcf
 france_travail,France Travail - Lourdes,-0.0395955,43.0982503,22 avenue du Maréchal-Joffre 65100 Lourdes,Mo-Fr 08:30-12:30,65286,1d7e8e33-5104-4124-96dc-2c46ea3b6ea3
@@ -94,7 +93,7 @@ france_travail,France Travail - Limoges - Leclerc,1.2612784,45.8476485,135 avenu
 france_travail,France Travail - Baie-Mahault,-61.58820000000003,16.2537,Rond-point Destrellan   97122 Baie-Mahault,Mo 07:30-12:00; Tu-We 07:30-13:15; Th 07:30-13:00; Fr 07:30-11:15,97103,234c652f-3bb5-4632-aed0-1fb71da0f113
 france_travail,France Travail - Cholet,-0.8694579,47.0483873,24 rue du Carteron 49300 Cholet,Mo-Fr 08:30-12:30,49099,23b36bb9-d5c8-462b-ae23-7f767a631293
 france_travail,France Travail - Chessy - Val-d'Europe,2.7740032,48.8567438,27 place d'Ariane 77700 Chessy,Mo-Th 09:00-13:15; Fr 09:00-12:00,77449,241c4dbb-84a8-4229-9471-2c2f4d12860a
-france_travail,France Travail - Andrézieux-Bouthéon,4.28073749,45.5303364,Rond-point Auguste-Colonna   42160 Andrézieux-Bouthéon Cedex,Mo-Fr 08:30-12:30,42005,243d7569-66a1-42b0-8c61-b7bebce101de
+france_travail,France Travail - Andrézieux-Bouthéon,4.279799439,45.527942632,Rond-point Auguste-Colonna 42160 Andrézieux-Bouthéon,Mo-Fr 08:30-12:30,42005,243d7569-66a1-42b0-8c61-b7bebce101de
 france_travail,France Travail - Autun,4.2996096,46.9587717,Rue Eugène-Chevalier 71400 Autun Cedex,Mo-Fr 08:30-12:30,71014,24aa2976-6bba-4751-9306-76f4773afca1
 france_travail,France Travail - Garges-lès-Gonesse,2.4159392,48.9740477,36 avenue Frédéric-Joliot-Curie 95140 Garges-lès-Gonesse,Mo-Th 09:00-13:15; Fr 09:00-12:00,95268,250b32bc-2382-4711-80ef-65da9fa4c127
 france_travail,France Travail - Nevers,3.145753,46.992226,5 bis rue du 13e-de-Ligne 58000 Nevers,Mo-Fr 08:30-12:30,58194,25195a5e-fb46-4c74-881c-b223f880a08a
@@ -114,7 +113,7 @@ france_travail,France Travail - Abbeville,1.8657862,50.1004808,11 rue Paul-Vimer
 france_travail,France Travail - Ajaccio,8.759843,41.936955,Avenue du Mont-Thabor 20000 Ajaccio Cedex 9,Mo-Fr 08:30-12:30,2A004,297dc35d-7b2d-4ec8-9c24-80d3736c482f
 france_travail,France Travail - Romilly-sur-Seine,3.720688896,48.50556312,32 rue Milford-Haven 10100 Romilly-sur-Seine,Mo-Fr 08:30-12:30,10323,29d051c2-b2d7-4c2b-9225-5c38681d2abe
 france_travail,France Travail - Marseille - Carré-Gabriel,5.382403,43.325247,31 boulevard Charles-Moretti 13014 Marseille,Mo-Fr 08:30-12:30,13214,29f2f225-910f-4353-be04-d3bf3d6ef50b
-france_travail,France Travail - Rennes - Est,-1.629234,48.096893,22 rue du Bignon 35000 Rennes Cedex,Mo-Fr 08:30-12:30,35238,2a1e5438-2c18-4a94-b55a-b2254ba7f716
+france_travail,France Travail - Rennes - Est,-1.629234,48.096893,22 rue du Bignon 35000 Rennes,Mo-Fr 08:30-12:30,35238,2a1e5438-2c18-4a94-b55a-b2254ba7f716
 france_travail,France Travail - Montpellier - Castelnau,3.9116234,43.6283262,400 avenue Marcel-Dassault 34170 Castelnau-le-Lez,Mo-Fr 08:30-12:30,34057,2aec6c42-f81f-409c-b9db-a7a0ee8a9eab
 france_travail,France Travail - Granville,-1.56558730000006,48.8345615,204 rue Paul-de-Gibon 50400 Granville,Mo-Fr 08:30-12:30,50218,2b7a5321-fb09-4796-af40-d21957768e7a
 france_travail,France Travail - Muret,1.3305229,43.4728372,187 avenue Jacques-Douzans 31600 Muret,Mo-Fr 08:30-12:30,31395,2b83245f-6ae8-482b-886a-90f9271960fb
@@ -152,6 +151,7 @@ france_travail,France Travail - Concarneau,-3.9062882,47.9011879,17 rue Aimé-C�
 france_travail,France Travail - Bagnols-sur-Cèze,4.118716637,44.120197096,520 avenue Roger-Salengro 30200 Bagnols-sur-Cèze,Mo-Fr 08:30-12:30,30028,35b4047e-281a-4c4a-b968-0a779d011b4b
 france_travail,France Travail - Verneuil-sur-Avre,0.9321762,48.7405834,135 rue Porte-de-Mortagne 27130 Verneuil-sur-Avre,Mo-Fr 08:30-12:30,27679,362b3a7a-7a8a-48bf-be55-58fcb8bf0680
 france_travail,France Travail - Saint-Brieuc - Sud,-2.747813682,48.498148631,3 rue Jean-Grenier 22000 Saint-Brieuc,Mo-Fr 08:30-12:30,22278,366580f3-b9e5-444e-a829-c54c3a3470f7
+france_travail,France Travail - Saint-Étienne - Chateaucreux,4.399523178,45.440019882,14 Rue de la Montat 42000 Saint-Étienne,Mo-Fr 08:30-12:30,42218,3716ba1b-3111-4f93-8e41-a520c6a049c9
 france_travail,France Travail - Hérouville,-0.3332465,49.2029709,8 place de l'Europe 14200 Hérouville-Saint-Clair,Mo-Fr 08:30-12:30,14327,3743d5a4-0e6d-4277-8f30-fe5c615621cc
 france_travail,France Travail - Vernouillet,1.3412383,48.7296367,3 avenue Marc-Chappey 28500 Vernouillet,Mo-Fr 08:45-12:45,28404,3749aaa2-3f1e-4002-bebc-f395a6b45e12
 france_travail,France Travail - Toulouse - La Plaine,1.4926106,43.5828024,1 impasse René-Couzinet 31000 Toulouse,Mo-Fr 08:30-12:30,31555,37507a0b-9e16-4c9f-8020-2b2a6d3f24c1
@@ -178,6 +178,7 @@ france_travail,France Travail - Roubaix - Centre,3.18018299,50.6919179,74 Grande
 france_travail,France Travail - Sarlat,1.205617843,44.909931687,77 route du Pont-de-Campagnac 24200 Sarlat-la-Canéda,Mo-Fr 08:30-12:30,24520,3e0a723a-fa81-4998-9c66-3e810f6f9af6
 france_travail,France Travail - Gap,6.0834792,44.559095,26 boulevard Georges-Pompidou 05000 Gap,Mo-Fr 08:30-12:30,05061,3e0faebd-99e3-4399-b1ea-09f72710a272
 france_travail,France Travail - Clermont-l'Hérault,3.4359589,43.6307767,16 bis avenue de Montpellier 34800 Clermont-l'Hérault,Mo-Fr 08:30-12:30,34079,3ecd850a-c308-4c00-9bb3-2f88734c99a8
+france_travail,France Travail - Toulouse - Hippodrome,1.386815762,43.575231643,280 route-de-Saint-Simon 31000 Toulouse,Mo-Fr 08:30-12:30,31555,3fe02ccf-e3ec-4453-94dd-2d0bfd4208cd
 france_travail,France Travail - Vannes - Ouest,-2.8026395,47.6772873,3 rue Marie-Curie 56890 Plescop,Mo-Fr 08:30-12:30,56158,401b4e56-bf31-4a23-98a9-ed90a27dc021
 france_travail,France Travail - Biarritz,-1.5391453,43.4722731,8 ter rue Bordé-d'André 64200 Biarritz,Mo-Fr 08:30-12:30,64122,40cd435b-0607-41a0-a2b1-3cb73d89a24b
 france_travail,France Travail - Troyes centre gare,4.063731,48.298535,24 rue Coulommière 10000 Troyes,Mo-Fr 08:30-12:30,10387,413b70da-f8dd-4f4e-8340-644fb21c2931
@@ -199,11 +200,11 @@ france_travail,France Travail - Saint-Girons,1.15361,42.98076,14 chemin de Pégo
 france_travail,France Travail - Saint-Jean,1.498597,43.6621903,6 chemin du Bois-de-Saget 31240 Saint-Jean,Mo-Fr 08:30-12:30,31488,47bc9045-5721-4e22-a023-d654776207d8
 france_travail,France Travail - Bourges - Baudens,2.4023776,47.0733541,5 bis boulevard du Maréchal-Joffre 18000 Bourges,Mo-Fr 08:45-12:45,18033,483186f8-368d-46a3-ae82-7cbfbb5ceed1
 france_travail,France Travail - Paris - 19e arrondissement - Armand-Carrel,2.3762596,48.8829974,44 rue Armand-Carrel 75019 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75119,4851f6b4-bb41-4c47-8de8-c827bcb6c2c1
-france_travail,France Travail - Rive-de-Gier,4.6018441,45.524226,1 rue de la Petite-Vitesse 42800 Rive-de-Gier Cedex,Mo-Fr 08:30-12:30,42186,48d849be-9184-4e1d-b284-5f318646095d
+france_travail,France Travail - Rive-de-Gier,4.6018441,45.524226,1 rue de la Petite-Vitesse 42800 Rive-de-Gier,Mo-Fr 08:30-12:30,42186,48d849be-9184-4e1d-b284-5f318646095d
 france_travail,France Travail - Tonnerre,3.9748198,47.858419,5 place de la Gare 89700 Tonnerre,Mo-Fr 08:30-12:30,89418,48db3da0-f92e-4443-b5d4-ff5526e74694
 france_travail,France Travail - Sens,3.3077838,48.2035527,47 rue du 19-Mars-1962 89100 Sens Cedex,Mo-Fr 08:30-12:30,89387,491fc444-7ad6-4901-9116-0d1981b10e7f
 france_travail,France Travail - Montpellier - Méditerranée,3.903613,43.5682403,300 impasse John-Locke 34470 Pérols,Mo-Fr 08:30-12:30,34129,49e7dad9-2aec-405d-baa3-cf38afc15e4d
-france_travail,France Travail - La Côte-Saint-André,5.25404359,45.3942612,12 rue du Commandant-Julhiet 38260 La Côte-Saint-André Cedex,Mo-Fr 08:30-12:30,38130,4a0bd1ce-021d-4d0f-b6c6-3fde7ac57129
+france_travail,France Travail - La Côte-Saint-André,5.25404359,45.3942612,12 rue Commandant-Julhiet 38260 La Côte-Saint-André,Mo-Fr 08:30-12:30,38130,4a0bd1ce-021d-4d0f-b6c6-3fde7ac57129
 france_travail,France Travail - Lagny-sur-Marne,2.69195639,48.8767051,2630 rue du Pont-Hardy 77400 Lagny-sur-Marne Cedex,Mo-Th 09:00-13:15; Fr 09:00-12:00,77243,4a0c157d-f282-4b18-b7f4-de2fb1f4d770
 france_travail,France Travail - Calais - Mollien,1.8630554,50.955343,66 rue Mollien 62100 Calais,Mo-Th 08:30-12:45; Fr 09:00-12:00,62193,4a3f4b24-0bb3-4017-8be6-bceaeaedb7a3
 france_travail,France Travail - Lézignan-Corbières,2.746472261,43.177981329,4 bis impasse Becquerel 11200 Lézignan-Corbières,Mo-Fr 08:30-12:30,11203,4abbe2a5-94f8-4813-a0ac-0ed140d8dd31
@@ -211,8 +212,9 @@ france_travail,France Travail - Issy-les-Moulineaux,2.2738418,48.8281491,2 rue V
 france_travail,France Travail - Lamballe,-2.504715,48.465371,5 avenue Georges-Clemenceau 22400 Lamballe,Mo-Fr 08:30-12:30,22093,4aeea9bb-f2a1-4a34-ba8b-4f0e2bc2936c
 france_travail,France Travail - Schiltigheim,7.7177105,48.61209109,2 rue de Berne 67300 Schiltigheim,Mo-Fr 08:30-12:30,67447,4afeb460-09ec-4fc6-bcd4-96bc1208124f
 france_travail,France Travail - Toulouse - Bellefontaine,1.3999592,43.5657055,63 allée de Bellefontaine 31000 Toulouse,Mo-Fr 08:30-12:30,31555,4b001e10-32e8-40cc-97a9-eddcc2854c82
+france_travail,France Travail - Eysines,-0.636706,44.885034,144 avenue du Médoc 33320 Eysines,Mo-Fr 08:30-12:30,33162,4b24c036-8c23-4d11-a574-ba93f29a85ba
 france_travail,France Travail - Paris - 12e arrondissement - Diderot,2.3690925,48.845595,3 boulevard Diderot 75012 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75112,4c526ee9-b4f4-4633-8909-c1afcff27137
-france_travail,France Travail - Villefontaine,5.155394,45.613306,315 rue Serge-Mauroit 38090 Villefontaine Cedex,Mo-Fr 08:30-12:30,38553,4c52b799-fba2-46b5-a438-af639f222475
+france_travail,France Travail - Villefontaine,5.155394,45.613306,315 rue Serge-Mauroit 38090 Villefontaine,Mo-Fr 08:30-12:30,38553,4c52b799-fba2-46b5-a438-af639f222475
 france_travail,France Travail - Lyon-Cadres,4.8600426,45.7726391,6 cours André-Philip 69100 Villeurbanne Cedex,Mo-Fr 08:30-12:30,69266,4c7a74b4-7a7d-43f3-b4ce-ea159a5308c5
 france_travail,France Travail - Oyonnax,5.6506197,46.2546373,188 rue Anatole-France 01108 Oyonnax Cedex,Mo-Fr 08:30-12:30,01283,4c958ab5-692c-448a-89e5-7f3f0004c1c7
 france_travail,France Travail - Château-Thierry,3.4119926,49.040117,56 avenue de la République 02400 Château-Thierry,Mo-Fr 08:30-12:30,02168,4cead821-03a0-4053-9292-ec16165bf574
@@ -226,7 +228,7 @@ france_travail,France Travail - Dijon-Est,5.098952,47.313879,2 rue des Charrièr
 france_travail,France Travail - Aubusson,2.166005194,45.955402393,Esplanade Charles-de-Gaulle 23200 Aubusson,Mo-Fr 08:30-12:30,23008,4f81fab4-24da-441c-ad61-60e51beaf901
 france_travail,France Travail - La Ferté-sous-Jouarre,3.12395719,48.9502238,8 rue de la Gare 77260 La Ferté-sous-Jouarre,Mo-Th 09:00-13:15; Fr 09:00-12:00,77183,503d9fb7-976a-4366-9f99-d8704ded7db6
 france_travail,France Travail - Saint-Nazaire,-2.26201620000006,47.2529525,10 boulevard de l'Université 44600 Saint-Nazaire,Mo-Fr 08:30-12:30,44184,509063f2-0760-41f3-8f33-2bfd8469c291
-france_travail,France Travail - Redon,-2.09538129999999,47.653437,3 rue Charles-Sillard 35600 Redon Cedex,Mo-Fr 08:30-12:30,35236,50cda35b-9f7a-4616-9d93-ece914ce836c
+france_travail,France Travail - Redon,-2.095390234,47.653371327,3 rue Charles-Sillard 35600 Redon,Mo-Fr 08:30-12:30,35236,50cda35b-9f7a-4616-9d93-ece914ce836c
 france_travail,France Travail - Paris - 15e arrondissement - Brancion - AVS-placement-artistes,2.3057069,48.8357524,10 rue Brancion 75015 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75115,50e35a43-996a-470a-b5cd-30ac528d28d9
 france_travail,France Travail - Cambrai,3.241966,50.1749823,16 rue du Colonel-Francis-Nicol 59400 Cambrai Cedex,Mo-Th 08:30-12:45; Fr 09:00-12:00,59122,50f57294-e562-4176-affa-7d14a8d3c577
 france_travail,France Travail - Guebwiller,7.2050463,47.9143991,170 rue de la République 68500 Guebwiller,Mo-Fr 08:30-12:30,68112,50f5abd3-ffbf-4763-86b1-8e390158fb50
@@ -235,7 +237,7 @@ france_travail,France Travail - Cagnes-sur-Mer,7.133666,43.659616,84 Avenue de G
 france_travail,France Travail - Moulins,3.3265147,46.5669866,42 place Jean-Moulin 03000 Moulins,Mo-Fr 08:30-12:30,03190,51653104-ad4e-4773-8fa2-46331142e334
 france_travail,France Travail - Valenciennes,3.5301143,50.3686496,21 rue des Frères-Dana 59300 Valenciennes,Mo-Th 08:30-12:45; Fr 09:00-12:00,59606,516fbbd5-1806-4402-b4e9-13b1de7b3644
 france_travail,France Travail - Nantes - Centre,-1.5783503999999766,47.2339638,8 avenue du Petit-Clos 44000 Nantes,Mo-Fr 08:30-12:30,44109,520cafcd-d736-4a1a-ab5f-112729e4374c
-france_travail,France Travail - L'Isle-Jourdain,1.091637,43.609718,12 rue Roger Couderc 32600 L'Isle-Jourdain,Mo-Fr 08:30-12:30,32160,521f7e67-1bb5-406e-a130-5fe001bc7122
+france_travail,France Travail - L'Isle-Jourdain,1.091637,43.609718,12 rue Roger-Couderc 32600 L'Isle-Jourdain,Mo-Fr 08:30-12:30,32160,521f7e67-1bb5-406e-a130-5fe001bc7122
 france_travail,France Travail - Nantes - Sainte-Luce,-1.4945575,47.2482158,1 allée des Citronniers 44000 Nantes Cedex 3,Mo-Fr 08:30-12:30,44109,524693c9-f07a-43c7-9ea1-5423426c560d
 france_travail,France Travail - Puteaux,2.2346026,48.8778409,116 rue de Verdun 92800 Puteaux,Mo-Th 09:00-13:15; Fr 09:00-12:00,92062,525b36a6-8810-4593-8e62-364b07f2fdb4
 france_travail,France Travail - Montargis,2.73203,48.014736,111 rue des Déportés-et-des-Internés-de-la-Résistance 45200 Montargis,Mo-Fr 08:45-12:45,45208,52653ca8-2575-48f4-9dd8-008504558164
@@ -279,7 +281,7 @@ france_travail,France Travail - Rosny-sous-Bois,2.4751185,48.8755891,6 rue de Ro
 france_travail,France Travail - Marseille - Belle-de-Mai,5.389293,43.310217,26 rue Jobin 13003 Marseille,Mo-Fr 08:30-12:30,13203,5dda5d58-dc06-4e62-aab9-b52381b2b43f
 france_travail,France Travail - Viry-Châtillon,2.3881184,48.6769456,16 rue de Ris 91170 Viry-Châtillon,Mo-Th 09:00-13:15; Fr 09:00-12:00,91687,5df53377-2b08-4d68-9f78-86a29cc1db63
 france_travail,France Travail - Sainte-Geneviève-des-Bois,2.3335814,48.6353278,141 route de Corbeil 91700 Sainte-Geneviève-des-Bois,Mo-Th 09:00-13:15; Fr 09:00-12:00,91549,5e29aa16-cb0d-4569-bb30-a243955f60ce
-france_travail,France Travail - Vitré,-1.2065019,48.12045,9 place du Champ-de-Foire 35500 Vitré Cedex,Mo-Fr 08:30-12:30,35360,5eb63d0c-2e02-45cb-9abb-43d8e10bb684
+france_travail,France Travail - Vitré,-1.2065019,48.12045,9 place du Champ-de-Foire 35500 Vitré,Mo-Fr 08:30-12:30,35360,5eb63d0c-2e02-45cb-9abb-43d8e10bb684
 france_travail,France Travail - Paris - 16e et 17e arrondissements - Cardinet,2.31577859,48.8922686,8 rue Bernard-Buffet 75017 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75117,5ecbfe9c-b4f6-49f2-8ce0-69b53a9d9ee4
 france_travail,France Travail - Saint-Pol-sur-Ternoise,2.3319839,50.3711392,Rue de Canteraine 62130 Saint-Pol-sur-Ternoise,Mo-Th 08:30-12:45; Fr 09:00-12:00,62767,5f27bcce-c499-440f-ad46-4e017cfc60ea
 france_travail,France Travail - Agen,0.6155151,44.1934214,104 avenue du Docteur-Jean-Bru 47000 Agen Cedex,Mo-Fr 08:30-12:30,47001,601bd760-828a-4ccf-8073-96a66a257810
@@ -294,7 +296,7 @@ france_travail,France Travail - Carentan,-1.242834,49.305666,28 rue du 101e-Airb
 france_travail,France Travail - Nogent-le-Rotrou,0.804688,48.323595,50 rue Émile-Gohon 28400 Nogent-le-Rotrou,Mo-Fr 08:45-12:45,28280,6252738c-dc97-4755-8410-299e4705e882
 france_travail,France Travail - Évry,2.4305977,48.6277106,9 cours Blaise-Pascal 91000 Évry,Mo-Th 09:00-13:15; Fr 09:00-12:00,91228,62797ef9-5dc2-4f1e-9c25-8c8f64e531bb
 france_travail,France Travail - Béziers - Capiscol,3.2506103,43.3326457,166 rue Maurice-Béjart 34500 Béziers,Mo-Fr 08:30-12:30,34032,627e423c-5c09-4d45-b80a-f28408a82a63
-france_travail,France Travail - Champagnole,5.90572499999996,46.746091,190 rue Alfred-et-Maurice-Bouvet 39300 Champagnole,Mo-Fr 08:30-12:30,39097,62ca0358-75c4-4488-9b06-45cc1c6fe787
+france_travail,France Travail - Champagnole,5.910501209,46.751105233,190 rue Alfred-et-Maurice-Bouvet 39300 Champagnole,Mo-Fr 08:30-12:30,39097,62ca0358-75c4-4488-9b06-45cc1c6fe787
 france_travail,France Travail - Porto-Vecchio,9.2593409,41.581061,Route Arca 20137 Porto-Vecchio,Mo-Fr 08:30-12:30,2A247,630232bf-55aa-405b-be96-f7cfbb8e4d6f
 france_travail,France Travail - Marseille - Château-Gombert,5.4362454,43.3426305,Rue Frédéric-Joliot-Curie 13013 Marseille,Mo-Fr 08:30-12:30,13213,63180a8a-0917-4b93-9561-cd52c470f321
 france_travail,France Travail - Le Havre - Ferrer,0.1385615,49.4885458,17 rue Ferrer 76600 Le Havre,Mo-Fr 08:30-12:30,76351,63c9c5a1-db38-4b2e-b5c1-3400e5e5daab
@@ -330,7 +332,7 @@ france_travail,France Travail - Amiens - Dury,2.27805409,49.8603712,1 place des 
 france_travail,France Travail - Bernay,0.5878348,49.0887198,28 rue Guillaume-de-la-Tremblaye 27300 Bernay,Mo-Fr 08:30-12:30,27056,6ded0217-3f37-4421-b332-14b1934e725e
 france_travail,France Travail - Angers - Europe,-0.526242000000025,47.48504,9 bis boulevard Auguste-Allonneau 49000 Angers,Mo-Fr 08:30-12:30,49007,6e316b3b-8d0c-47d8-b193-cea605b8eac2
 france_travail,France Travail - Tremblay-en-France,2.5701308,48.9497486,43 avenue Nelson-Mandela 93290 Tremblay-en-France,Mo-Th 09:00-13:15; Fr 09:00-12:00,93073,6e39f4d4-e990-42dc-b9a7-2a86baf5fb95
-france_travail,France Travail - Vienne,4.86553049,45.5142478,30 avenue du Général-Leclerc 38200 Vienne Cedex,Mo-Fr 08:30-12:30,38544,6e441751-8a7c-458c-af1c-817283542fef
+france_travail,France Travail - Vienne,4.86553049,45.5142478,30 avenue du Général-Leclerc 38200 Vienne,Mo-Fr 08:30-12:30,38544,6e441751-8a7c-458c-af1c-817283542fef
 france_travail,France Travail - Pont-Audemer,0.515508,49.351373,1 rue des Temps-Modernes 27500 Pont-Audemer,Mo-Fr 08:30-12:30,27467,6e5fd826-6cd6-41b8-b645-587e0075a875
 france_travail,France Travail - Denain,3.39271959,50.3258622,6 allée du 24-Juillet-1712 59220 Denain,Mo-Th 08:30-12:45; Fr 09:00-12:00,59172,6e793c93-f60b-49fa-8793-a6472e81ff26
 france_travail,France Travail - Lens - Laloux,2.8381881,50.4387233,40 rue Hector-Laloux 62300 Lens,Mo-Th 08:30-12:45; Fr 09:00-12:00,62498,6e80d21d-8305-4693-8040-a30dfb8234df
@@ -339,7 +341,7 @@ france_travail,France Travail - Saint-Dié-des-Vosges,6.9397368,48.2888138,5 rue
 france_travail,France Travail - Graulhet,1.9725796,43.7606227,Avenue Rhin-et-Danube 81300 Graulhet,Mo-Fr 08:30-12:30,81105,6effd1a7-9760-442b-a7cf-ee0a2088526e
 france_travail,France Travail - Noisy-le-Sec,2.4480141,48.891681,54 rue Paul-Vaillant-Couturier 93130 Noisy-le-Sec,Mo-Th 09:00-13:15; Fr 09:00-12:00,93053,6f057bcd-a195-45be-a06e-034c3bead1c9
 france_travail,France Travail - Clermont-Ferrand - Pré-la-Reine,3.112003,45.7821351,20 rue du Pré-la-Reine 63000 Clermont-Ferrand,Mo-Fr 08:30-12:30,63113,6f35c115-690b-4375-b232-fc45c2bf908e
-france_travail,France Travail - Saint-Étienne - Clapier,4.37909139,45.4376013,18 avenue Augustin-Dupré 42000 Saint-Étienne Cedex 1,Mo-Fr 08:30-12:30,42218,6fb2e8e3-87b0-4aa9-b089-27617109edc8
+france_travail,France Travail - Saint-Étienne - Clapier,4.37909139,45.4376013,18 avenue Augustin-Dupré 42000 Saint-Étienne,Mo-Fr 08:30-12:30,42218,6fb2e8e3-87b0-4aa9-b089-27617109edc8
 france_travail,France Travail - Lyon - Albert-Thomas,4.8697905,45.7385945,68 cours Albert-Thomas 69008 Lyon Cedex 08,Mo-Fr 08:30-12:30,69388,709b320a-a073-4a6b-8eec-f304e3d9d770
 france_travail,France Travail - Maubeuge - Pasteur,3.94975049,50.2747381,60 ter boulevard Pasteur 59600 Maubeuge,Mo-Th 08:30-12:45; Fr 09:00-12:00,59392,70d12002-8a4b-44bb-a455-685c07a5bcf7
 france_travail,France Travail - Nancy - Gentilly,6.1477722,48.7023657,199 rue Julie-Victoire-Daubie 54000 Nancy,Mo-Fr 08:30-12:30,54395,7117c381-569a-4cbf-935d-bae916853941
@@ -347,7 +349,7 @@ france_travail,France Travail - Nyons,5.13839285,44.3615762,465 rue Guillaume-de
 france_travail,France Travail - Montpellier - Mas-de-Grille,3.8508305,43.5747936,Rue Théophraste-Renaudot 34430 Saint-Jean-de-Védas,Mo-Fr 08:30-12:30,34270,71d6e58a-ea2d-4032-84f8-77e4ef27b745
 france_travail,France Travail - Barbezieux,-0.157919,45.473486,32 rue de la Motte 16300 Barbezieux-Saint-Hilaire,Mo-Fr 08:30-12:30,16028,72d1ffb3-ae11-433c-91e4-4fe2d890020d
 france_travail,France Travail - Ile-de-Ré,-1.319319,46.156138,20 rue du Paradis 17740 Sainte-Marie-de-Ré,Mo-Fr 09:00-12:30,17360,72e0ff1f-db61-4173-a303-9448609d0959
-france_travail,France Travail - Saint-Médard-en-Jalles,-0.7177952,44.8930107,59 rue Jean-Duperrier 33160 Saint-Médard-en-Jalles Cedex,Mo-Fr 08:30-12:30,33449,730f323a-137a-413c-855c-2bb38411aee6
+france_travail,France Travail - Saint-Médard-en-Jalles,-0.688806254,44.880765456,2b Avenue de Berlincan 33160 Saint-Médard-en-Jalles,Mo-Fr 08:30-12:30,33449,730f323a-137a-413c-855c-2bb38411aee6
 france_travail,France Travail - Halluin,3.1277661,50.7722351,Boulevard de Roncq 59250 Halluin Cedex,Mo-Th 08:30-12:45; Fr 09:00-12:00,59279,73377f30-feca-4721-86e3-6b791d7c47fc
 france_travail,France Travail - Lucé,1.463619,48.43126,1 impasse des Granges 28110 Lucé,Mo-Fr 08:45-12:45,28218,73901735-01ff-4826-8bea-c8b3e3a95196
 france_travail,France Travail - Sainte-Rose,-61.6687,16.2974,ZAC de Nolivier   97115 Sainte-Rose,Mo 07:30-13:00; Tu-We 07:30-13:15; Th 07:30-13:00; Fr 07:30-11:30,97129,74282cd4-7296-4b11-b505-a0e31df9c46b
@@ -375,15 +377,15 @@ france_travail,France Travail - Bar-le-Duc,5.17672479999999,48.7661912,77 rue Er
 france_travail,France Travail - Sin-le-Noble,3.10813959,50.3598791,309 avenue du Maréchal-Leclerc 59450 Sin-le-Noble,Mo-Th 08:30-12:45; Fr 09:00-12:00,59569,7a75adeb-4775-4452-8f91-51a7284c5086
 france_travail,France Travail - Lisieux,0.2578251,49.1408149,88 avenue Guillaume-le-Conquérant 14100 Lisieux,Mo-Fr 08:30-12:30,14366,7ac268d0-f125-4ff5-838c-db96ac34089f
 france_travail,France Travail - Albi,2.181118,43.918859,37 avenue Pierre-Gilles-de-Gennes 81000 Albi,Mo-Fr 08:30-12:30,81004,7ad5e34f-ddb3-4fa3-b2e5-4246fd1be55a
-france_travail,France Travail - Fougères,-1.190743,48.350566,15 rue Hippolyte-Réhault 35300 Fougères Cedex,Mo-Fr 08:30-12:30,35115,7bbad75f-45fb-4cfc-8275-4158cef63e56
-france_travail,France Travail - Colomiers,1.3074558000000707,43.61377969999999,25 boulevard Victor-Hugo 31770 Colomiers,Mo-Fr 08:30-12:30,31149,7c4d493b-252a-43a2-b178-45bde044bc37
+france_travail,France Travail - Fougères,-1.190743,48.350566,15 rue Hippolyte-Réhault 35300 Fougères,Mo-Fr 08:30-12:30,35115,7bbad75f-45fb-4cfc-8275-4158cef63e56
+france_travail,France Travail - Colomiers,1.309243,43.613642,25 boulevard Victor-Hugo 31770 Colomiers,Mo-Fr 08:30-12:30,31149,7c4d493b-252a-43a2-b178-45bde044bc37
 france_travail,France Travail - Rueil-Malmaison,2.1998843,48.8764843,128 rue Danton 92500 Rueil-Malmaison,Mo-Th 09:00-13:15; Fr 09:00-12:00,92063,7c8f9b3b-9008-414d-8e53-e9feefaf303b
-france_travail,France Travail - Castelginest,1.4267518,43.6913995,Castelginest  12 rue du Pont-Vieil 31780 Castelginest,Mo-Fr 08:30-12:30,31116,7c915d50-673b-44a0-b549-53ad7a621a15
+france_travail,France Travail - Castelginest,1.4267518,43.6913995,12 rue du Pont-Vieil 31780 Castelginest,Mo-Fr 08:30-12:30,31116,7c915d50-673b-44a0-b549-53ad7a621a15
 france_travail,France Travail - Metz - Blida,6.1811859,49.1258027,3 avenue de Blida 57000 Metz Cedex 1,Mo-Fr 08:30-12:30,57463,7cfff7c2-6b92-4491-ba13-2b8617b9b061
 france_travail,France Travail - Paris - 15e arrondissement - Avs indemnisation,2.2889509,48.8377941,202 rue de la Croix-Nivert 75015 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75115,7d6934a9-173d-403b-9948-c3a341964d56
 france_travail,France Travail - Berck-sur-Mer,1.5790708,50.3981883,2 chemin des Pourrières 62600 Berck,Mo-Th 08:30-12:45; Fr 09:00-12:00,62108,7d8d9cff-618a-4c96-afb4-520e7950a9f8
 france_travail,France Travail - Saint-Lô,-1.07840799999997,49.1043742,419 rue Alexis-de-Tocqueville 50008 Saint-Lô Cedex,Mo-Fr 08:30-12:30,50502,7da6456d-a494-4b60-b2f9-88f949e74afd
-france_travail,France Travail - Rennes - Sud,-1.661385,48.08851,2 bis avenue des Pays-Bas 35000 Rennes Cedex 2,Mo-Fr 08:30-12:30,35238,7ddb031c-2432-4b34-bb36-dff5b390baee
+france_travail,France Travail - Rennes - Sud,-1.70887485,48.099147707,40 Avenue Andrée-Viollis 35000 Rennes,Mo-Fr 08:30-12:30,35238,7ddb031c-2432-4b34-bb36-dff5b390baee
 france_travail,France Travail - Chaumont,5.1392559,48.113748,22 rue Jules-Chéret 52000 Chaumont Cedex 9,Mo-Fr 08:30-12:30,52121,7e4036de-f67f-47ad-9c73-5ad068e0a4e9
 france_travail,France Travail - Meyzieu,4.9982598,45.7656621,20 rue de la République 69330 Meyzieu Cedex,Mo-Fr 08:30-12:30,69282,7e5523c7-6568-4356-a7a0-474732a511eb
 france_travail,France Travail - Sartrouville,2.1601339,48.9372026,27 rue Lamartine 78500 Sartrouville,Mo-Th 09:00-13:15; Fr 09:00-12:00,78586,7ebe6136-56ce-4a44-80ff-d3e23312df91
@@ -394,10 +396,9 @@ france_travail,France Travail - Aurillac,2.4341685,44.9145739,9 avenue Commandan
 france_travail,France Travail - Draguignan,6.464993,43.5377269,105 place du 7e-Bataillon-de-Chasseurs-Alpins 83300 Draguignan,Mo-Fr 08:30-12:30,83050,80e7dcd8-de2f-45aa-9a50-b2ab54cfccf1
 france_travail,France Travail - Le Cateau-Cambrésis,3.54783829,50.1030299,64 rue de Landrecies 59360 Le Cateau-Cambrésis,Mo-Th 08:30-12:30; Fr 09:00-12:00,59136,811adf09-316e-4d15-8b03-f04921f7c9a8
 france_travail,France Travail - Combourg,-1.7540654,48.4185087,4 allée de Lohon 35270 Combourg,Mo-Fr 08:30-12:30,35085,812133c8-13db-4cf1-9d01-47d599d96e5e
-france_travail,France Travail - Bordeaux - Nord,-0.57521650000001,44.8659556,5 place Ravezies 33070 Bordeaux Cedex,Mo-Fr 08:30-12:30,33063,813ebd92-c05a-4c01-80b6-b32929a2fdc9
+france_travail,France Travail - Bordeaux - Nord,-0.573663694,44.865592028,12 Allée Haussmann 33000 Bordeaux,Mo-Fr 08:30-12:30,33063,813ebd92-c05a-4c01-80b6-b32929a2fdc9
 france_travail,France Travail - Avranches,-1.3654841,48.6853391,2 rue des Sablonnières 50300 Avranches,Mo-Fr 08:30-12:30,50025,8142e4fe-3f85-4a5c-bab0-f4787d5dbecf
 france_travail,France Travail - Friville-Escarbotin,1.54358819,50.0820693,191 bis rue Henri-Barbusse 80130 Friville-Escarbotin Cedex,Mo-Fr 08:30-12:30,80368,81da6840-7c0c-4be3-a607-ab022c5ce115
-france_travail,France Travail - Mimizan,-1.070813600000065,44.3531122,113 allée Malichecq 40160 Parentis-en-Born,Mo-Fr 08:30-12:30,40184,8260e75a-ae47-429d-a84d-df239a51d49f
 france_travail,France Travail - Beaupréau,-0.996883799999978,47.2087909,67 rue de la Lime 49600 Beaupréau,Mo-Fr 08:30-12:30,49023,827feb04-c271-4324-98e2-a0d1871fd996
 france_travail,France Travail - Pantin,2.4226055,48.8945379,188 avenue Jean-Lolive 93500 Pantin,Mo-Th 09:00-13:15; Fr 09:00-12:00,93055,829f77f2-2890-42d6-a394-ef3091965fbe
 france_travail,France Travail - Sisteron,5.948118,44.185907,52 avenue Jean-Jaurès 04200 Sisteron,Tu 08:30-12:30; Th 08:30-12:30,04209,838cf406-069b-4173-b8c3-95a406007c46
@@ -414,7 +415,7 @@ france_travail,France Travail - Bagneux,2.3183339,48.7931841,157 rue des Blains 
 france_travail,France Travail - Taverny,2.2241593,49.0186338,47 rue de Montmorency 95150 Taverny,Mo-Th 09:00-13:15; Fr 09:00-12:00,95607,860757d5-1e4f-4c08-b38b-39bb0d6fbd29
 france_travail,France Travail - Amiens - Millevoye,2.296808,49.8868557,21 rue Millevoye 80000 Amiens Cedex 1,Mo-Fr 08:30-12:30,80021,862c04b5-0514-4ed3-b605-fcc0bdffda20
 france_travail,France Travail - Dijon - Ouest,5.0092973,47.3206393,5 boulevard du Chanoine-Kir 21000 Dijon,Mo-Fr 08:30-12:30,21231,8642bf49-a17e-4253-8a55-8d7b1c06fa7c
-france_travail,France Travail - Saint-Claude,5.8214502,46.3797002,20 route de Bellefontaine 39206 Saint-Claude Cedex,Mo-Fr 08:30-12:30,39478,86a73c03-a6fd-4470-80df-3cd722b1c81d
+france_travail,France Travail - Saint-Claude,5.8214502,46.3797002,20 route de Bellefontaine 39200 Saint-Claude,Mo-Fr 08:30-12:30,39478,86a73c03-a6fd-4470-80df-3cd722b1c81d
 france_travail,France Travail - Neuilly-sur-Marne,2.5185,48.8551628,10 rue Jean-Perrin 93330 Neuilly-sur-Marne,Mo-Th 09:00-13:15; Fr 09:00-12:00,93050,87407bee-7740-4378-85da-ec0f7e54a6d5
 france_travail,France Travail - Creutzwald,6.6958354,49.2046923,6 rue de Carling 57150 Creutzwald,Mo-Fr 08:30-12:30,57160,87ccdb85-6b0a-4ce2-957c-8b94c3cc75ef
 france_travail,France Travail - Strasbourg - Hautepierre,7.7521113,48.5734053,9 rue Alfred-de-Vigny 67000 Strasbourg Cedex 2,Mo-Fr 08:30-12:30,67482,88429750-b4e0-4014-b773-64694d7f8ec7
@@ -426,11 +427,11 @@ france_travail,France Travail - La Madeleine,3.07270049,50.6449104,38 allée Vau
 france_travail,France Travail - Lure,6.502218500000026,47.6921839,32 rue René-Dumont 70204 Lure Cedex,Mo-Fr 08:30-12:30,70310,89f5f7a1-b44d-4117-b4cb-32c171c3d483
 france_travail,France Travail - Pertuis,5.497151,43.678533,182 allée des Prés-Verts 84120 Pertuis Cedex,Mo-Fr 08:30-12:30,84089,89f64066-2270-4835-8755-8bd3d36514aa
 france_travail,France Travail - Vitry-sur-Seine,2.3950485,48.780912,121 avenue Rouget-de-Lisle 94400 Vitry-sur-Seine,Mo-Th 09:00-13:15; Fr 09:00-12:00,94081,8a502f3a-6b49-4158-9720-483ef6f35500
-france_travail,France Travail - Le Vigan,3.6243208,43.9910384,ZAC de Tessan   30120 Le Vigan,Mo-Fr 08:30-12:30,30350,8a6c5eb2-902c-4f3c-947f-a86bbcf021e8
+france_travail,France Travail - Le Vigan,3.6243208,43.9910384,ZAC de Tessan Rond-Point-de-Tessan 30120 Le Vigan,Mo-Fr 08:30-12:30,30350,8a6c5eb2-902c-4f3c-947f-a86bbcf021e8
 france_travail,France Travail - Chennevières-sur-Marne,2.5471121,48.7887164,7 avenue de Pince-Vent 94430 Chennevières-sur-Marne,Mo-Th 09:00-13:15; Fr 09:00-12:00,94019,8abd3756-88a2-45e2-b1de-01c0d1776643
 france_travail,France Travail - Salon-de-Provence,5.096015,43.632215,246 rue des Canesteu 13300 Salon-de-Provence,Mo-Fr 08:30-12:30,13103,8bdfc886-d94d-4cf1-91dc-183e7ab31e34
 france_travail,France Travail - Le Havre - Ville-Haute,0.115978,49.520153,20 rue Léon-Peulevey 76600 Le Havre,Mo-Fr 08:30-12:30,76351,8d0dd9a6-24f3-4770-9ad2-b601a593ef1c
-france_travail,France Travail - Libourne,-0.223014299999932,44.9182369,33 chemin du Casse 33500 Libourne,Mo-Fr 08:30-12:30,33243,8d37bf47-2535-43a9-b850-f1db11018c2d
+france_travail,France Travail - Libourne,-0.222584524,44.918101081,33 chemin du Casse 33500 Libourne,Mo-Fr 08:30-12:30,33243,8d37bf47-2535-43a9-b850-f1db11018c2d
 france_travail,France Travail - Saint-Yrieix,1.2036707,45.5142436,Rue du 8-Mai-1945 87500 Saint-Yrieix-la-Perche,Mo-Fr 08:30-12:30,87187,8d95a950-5e73-4d83-a850-bf12bda13197
 france_travail,France Travail - Poitiers - Gare,0.3387455,46.5864762,60 boulevard du Grand-Cerf 86000 Poitiers Cedex,Mo-Fr 08:30-12:30,86194,8d9b6867-3043-4656-894c-98c8abf3c4fb
 france_travail,France Travail - Clichy - Clichy-la-Garenne,2.319878,48.901274,23-31 rue Morel 92110 Clichy,Mo-Th 09:00-13:15; Fr 09:00-12:00,92024,8dbf94a6-3a72-48b0-a1e2-93cad3cfdc90
@@ -446,13 +447,14 @@ france_travail,France Travail - Limoges - Ventadour,1.2686716,45.8118215,18 rue 
 france_travail,France Travail - Thoiry,6.011873,46.237626,348 Avenue du Mont-Blanc 01710 Thoiry,Mo-Fr 08:30-12:30,01419,916dc066-792e-49c6-809d-1d05d31534f8
 france_travail,France Travail - Point-Relais-Château-Chinon,3.934405,47.062606,6 place Notre-Dame 58120 Château-Chinon,Mo-Fr 08:30-12:30,58062,924076a3-aa12-451b-8fbe-8830c0396a22
 france_travail,France Travail - Trappes,2.0091753,48.7694719,130 avenue des Bouleaux 78190 Trappes,Mo-Th 09:00-13:15; Fr 09:00-12:00,78621,9262f3a2-8d22-4bfa-a0f4-6894b5e66081
+france_travail,France Travail - Saint-Étienne - Bellevue,4.388448852,45.418069027,29bis rue du Mont 42000 Saint-Étienne,Mo-Fr 08:30-12:30,42218,92642850-a905-4c6f-8944-35415904798e
 france_travail,France Travail - Chambéry - Grand-Verger,5.9085568,45.5761432,272 rue François-Guise 73000 Chambéry Cedex,Mo-Fr 08:30-12:30,73065,92c79ee4-c5ab-4231-9c41-4ff6e998b758
 france_travail,France Travail - Cherbourg - LaNoé,-1.5917609,49.6302591,100 impasse des Cerisiers 50110 Tourlaville,Mo-Fr 08:30-12:30,50129,930494ba-8529-4ca6-a018-9a851512d1e8
 france_travail,France Travail - Paris - 19e arrondissement - Laumière,2.3780374,48.8851145,75 avenue Jean-Jaurès 75019 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75119,93467ec4-ea5d-4d75-889e-5484dd03b76d
 france_travail,France Travail - Saint-Étienne-du-Rouvray,1.0740161,49.3981817,7 rue Abel-Gance 76800 Saint-Étienne-du-Rouvray,Mo-Fr 08:30-12:30,76575,93a4889f-b660-4f1b-bb73-2d648163dff0
 france_travail,France Travail - Marseille - Pharo,5.36437079,43.28931619,23 avenue de la Corse 13007 Marseille Cedex 07,Mo-Fr 08:30-12:30,13207,9402ef2f-40e6-4eea-9edb-505c92b4bb47
 france_travail,France Travail - Villefranche-sur-Saône,4.72773119,45.980038,588 boulevard Albert-Camus 69400 Villefranche-sur-Saône Cedex,Mo-Fr 08:30-12:30,69264,9406cc64-b3e3-433a-87bf-bc2137f34254
-france_travail,France Travail - Tours - Ronsard,0.7057844,47.4218957,106 rue Ronsard 37000 Tours Cedex 2,Mo-Fr 08:45-12:45,37261,9471cfc7-92d6-4bc0-b1f6-9c3b2578763e
+france_travail,France Travail - Tours - Ronsard,0.7057844,47.4218957,106 rue Ronsard 37000 Tours,Mo-Fr 08:45-12:45,37261,9471cfc7-92d6-4bc0-b1f6-9c3b2578763e
 france_travail,France Travail - Villefranche-de-Rouergue,2.0369176,44.3512982,Chemin de 13-Pierres 12200 Villefranche-de-Rouergue,Mo-Fr 08:30-12:30,12300,94835258-efa1-48da-888b-31eb2da085c7
 france_travail,France Travail - L'Aigle,3.95269919999998,50.4574962,1 place du Parc 61300 L'Aigle Cedex,Mo-Fr 08:30-12:30,61214,95332db5-a96e-4099-96c1-62a7b11403ca
 france_travail,France Travail - Toulouse - Saint-Michel,1.4482208,43.5840563,2 avenue de l'URSS 31000 Toulouse,Mo-Fr 08:30-12:30,31555,95415584-de4f-4949-a39a-7469dc64d2df
@@ -460,7 +462,7 @@ france_travail,France Travail - Niort - Trévins,-0.3755613,46.3467269,275 rue d
 france_travail,France Travail - Verdun,5.3850247,49.1681803,Rue Robert-Cotte 55100 Verdun,Mo-Fr 08:30-12:30,55545,9587b398-8625-4617-96e1-6d6de21a1463
 france_travail,France Travail - Brive - La Marquisie,1.4790332,45.1558702,Rue Ernest-Comte 19100 Brive-la-Gaillarde,Mo-Fr 08:30-12:30,19031,95981c2f-81f6-4a40-bd1b-c51f9f311e6a
 france_travail,France Travail - Neuville-sur-Saône,4.8360468,45.8799324,4 avenue Carnot 69250 Neuville-sur-Saône,Mo-Fr 08:30-12:30,69143,95ec01d2-d265-4176-8536-7f5afea8840c
-france_travail,France Travail - Pézenas,3.413067,43.449051,ZA les Rodettes   34120 Pézenas,Mo-Fr 08:30-12:30,34199,96409367-8819-4e5d-ae89-85cc3f272ba5
+france_travail,France Travail - Pézenas,3.411867999,43.44750865,ZA les Rodettes 34120 Pézenas,Mo-Fr 08:30-12:30,34199,96409367-8819-4e5d-ae89-85cc3f272ba5
 france_travail,France Travail - Céret,2.748826,42.485952,6 rue Barbet 66400 Céret,Mo-Fr 08:30-12:30,66049,9655f093-cb38-4d91-9701-1c31e208b247
 france_travail,France Travail - Quimper - Nord,-4.0950342,48.0158494,29 route de Ty-Nay 29000 Quimper,Mo-Fr 08:30-12:30,29232,96580b37-1d10-4331-94a2-32724c7007e1
 france_travail,France Travail - Le Mans - Les Sablons,0.2334976,47.9962573,20 rue de Corse 72000 Le Mans,Mo-Fr 08:30-12:30,72181,966ad31f-a3e3-4f85-a21d-f9d6e765f0f0
@@ -477,6 +479,7 @@ france_travail,France Travail - Beauvais - Mykonos,2.10567979,49.4391253,2 rue S
 france_travail,France Travail - Carhaix,-3.580563,48.258156,1 rue de Kerven 29270 Carhaix-Plouguer,Mo-Fr 08:30-12:30,29024,983de2a9-f79b-43ab-af65-f6fe606ce818
 france_travail,France Travail - Toul,5.89215730000001,48.6814687,90 avenue du Colonel-Pechot 54200 Toul Cedex,Mo-Fr 08:30-12:30,54528,988deda3-62d1-4935-9cb9-638c8ecbf73a
 france_travail,France Travail - Cournon,3.2103095,45.7436203,12 avenue Jules-Ferry 63800 Cournon-d'Auvergne Cedex,Mo-Fr 08:30-12:30,63124,98fd4846-a76e-4a7d-a3e6-519cac354256
+france_travail,France Travail - Tignieu-Jameyzieu,5.190669472,45.753789785,15 rue Vaucanson 38230 Tignieu-Jameyzieu,Mo-Fr 08:30-12:30,38507,993501c0-04d6-45b8-b603-3294e492ddc6
 france_travail,France Travail - Saint-André,55.66196,-20.9631621,494 rue Andropolis 97440 Saint-André,Mo-Fr 07:30-11:30; We 07:30-13:00; Th-Fr 07:30-11:30,97409,993dc3ee-71f6-47cb-88c8-5986b8109a0a
 france_travail,France Travail - Versailles,2.13752239,48.7979034,24 rue de Vergennes 78000 Versailles,Mo-Th 09:00-13:15; Fr 09:00-12:00,78646,99590518-1961-49ba-ac73-00ca088b612a
 france_travail,France Travail - La Chapelle-Saint-Luc,4.03710,48.30605,102 avenue du Général-Sarrail 10600 La Chapelle-Saint-Luc,Mo-Fr 08:30-12:30,10081,996cf1c2-26bf-49b3-8159-166e698dd08c
@@ -510,7 +513,7 @@ france_travail,France Travail - Besançon - Planoise,5.9688745,47.2180305,8 rue 
 france_travail,France Travail - Briançon,6.6326842,44.8944621,6 avenue du Général-de-Gaulle 05100 Briançon,Mo-Fr 08:30-12:30,05023,a2314dda-6110-491d-a28c-cef9201732ba
 france_travail,France Travail - Valence - Briffaut,4.9203067,44.9248197,354A avenue de Chabeuil 26000 Valence,Mo-Fr 08:30-12:30,26362,a253d593-cc5e-4edb-b9ae-46608b7475bd
 france_travail,France Travail - Vannes - Est,-2.7357073,47.6538649,17 route de Nantes 56860 Séné,Mo-Fr 08:30-12:30,56260,a27b3e07-0f7a-4350-9a78-aa07a1a58fd7
-france_travail,France Travail - Lesparre-Médoc,-0.943940600000019,45.3050406,7 chemin de Pradal 33340 Lesparre-Médoc,Mo-Fr 08:30-12:30,33240,a2980316-93f2-4621-bd16-77428f220471
+france_travail,France Travail - Lesparre-Médoc,-0.943966651,45.304853463,7 chemin de Pradal 33340 Lesparre-Médoc,Mo-Fr 08:30-12:30,33240,a2980316-93f2-4621-bd16-77428f220471
 france_travail,France Travail - Montluel,5.057077,45.846378,650 rue des Valets 01120 Montluel,Mo-Fr 08:30-12:30,01262,a2d13c85-2faa-4638-8634-59338b9531a9
 france_travail,France Travail - Carmaux,2.1523199,44.0516359,28 rue de la Verrerie 81400 Carmaux,Mo-Fr 08:30-12:30,81060,a3d3695f-d7ae-4c41-ac00-2cbcf50c5b84
 france_travail,France Travail - Le Creusot,4.4415747,46.7953242,30 B rue de Chanzy 71200 Le Creusot Cedex,Mo-Fr 08:30-12:30,71153,a3dd234a-0a62-4e20-8a4f-42a389766b16
@@ -523,13 +526,13 @@ france_travail,France Travail - Tarare,4.43534,45.8942251,9 rue Rosset 69170 Tar
 france_travail,France Travail - Le Port,55.3117511153291,-20.9422942562421,23 rue Sully-Prud'Homme 97420 Le Port Cedex,Mo-Fr 07:30-11:30,97407,a73a9f05-0562-4141-8cfc-ebea40b4aaca
 france_travail,France Travail - Saint-Louis - Bel-Air,55.4000709,-21.288196,20 rue de l'Étang 97872 Saint-Louis Cedex,Mo-Fr 07:30-11:30; We 07:30-13:00; Th-Fr 07:30-11:30,97414,a7595e45-0ae8-4414-9981-671edb0e1e56
 france_travail,France Travail - Périgueux - Littre,0.70621,45.187311,134 Avenue Maréchal-Juin 24000 Périgueux,Mo-Fr 08:30-12:30,24322,a7ad954a-105c-4417-ab15-f17622784e20
-france_travail,France Travail - Saint-Martin-d'Hères,5.7542172,45.184174,22 avenue Benoît-Frachon 38400 Saint-Martin-d'Hères Cedex,Mo-Fr 08:30-12:30,38421,a7f6dfb8-36f8-4fef-85cc-9140f42e7413
+france_travail,France Travail - Saint-Martin-d'Hères,5.7542172,45.184174,22 avenue Benoît-Frachon 38400 Saint-Martin-d'Hères,Mo-Fr 08:30-12:30,38421,a7f6dfb8-36f8-4fef-85cc-9140f42e7413
 france_travail,France Travail - Brie-Comte-Robert,2.6114453,48.6859305,Rue du 19-Mars-1962 77170 Brie-Comte-Robert,Mo-Th 09:00-13:15; Fr 09:00-12:00,77053,a8741eef-03b2-4193-bbab-88644f5e14bd
 france_travail,France Travail - Thiers,3.5463838,45.8579075,20 rue des Docteurs-Dumas 63300 Thiers Cedex,Mo-Fr 08:30-12:30,63430,a8894445-2bc9-4917-9544-9ee8cd60f0c7
 france_travail,France Travail - Propriano,8.8991675,41.675618,Rue de la Marine 20110 Propriano,Mo-Fr 08:30-12:30,2A249,a92bb6fe-1a29-471c-a737-9ba47e7096d6
 france_travail,France Travail - Reims - Bezannes,4.0043714,49.2237689,Bezannes  51 rue Louis-Néel 51430 Bezannes Cedex 2,Mo-Fr 08:30-12:30,51058,a94b13f6-7b92-4646-9cf7-453e8f5abacd
 france_travail,France Travail - Montbard-Châtillon,4.3380255,47.6251724,Passage Georges-Brassens 21500 Montbard,Mo-Fr 08:30-12:30,21425,a98efac4-9036-44da-b54f-b8451b005804
-france_travail,France Travail - Dole,5.4705359,47.0842541,22 rue Pablo-Neruda 39100 Dole Cedex,Mo-Fr 08:30-12:30,39198,a9b02912-f810-436d-a704-cee30b3fe4e6
+france_travail,France Travail - Dole,5.4705359,47.0842541,22 rue Pablo-Neruda 39100 Dole,Mo-Fr 08:30-12:30,39198,a9b02912-f810-436d-a704-cee30b3fe4e6
 france_travail,France Travail - Honfleur,0.24142843,49.41785299,2A rue des Corsaires 14600 Honfleur,Mo-Fr 08:30-12:30,14333,a9deffb4-fe3a-46e2-ad2b-42c00f16965b
 france_travail,France Travail - Privas,4.612215,44.719662,116 rue des Genévriers 07000 Privas,Mo-Fr 08:30-12:30,07186,aa252ea6-2dd8-4ce6-a9f1-9c42a851fa9f
 france_travail,France Travail - Souillac,1.466593,44.9021248,Place de la Gare 46200 Souillac,Mo-Fr 08:30-12:30,46309,aac82057-b129-4d50-b8fc-8fa25dc66e2f
@@ -548,14 +551,14 @@ france_travail,France Travail - Arpajon,2.2392793,48.5849104,2 route d'Egly 9129
 france_travail,France Travail - Herblay,2.1814905,49.0005332,93 rue de la Marne 95220 Herblay,Mo-Th 09:00-13:15; Fr 09:00-12:00,95306,adb5a808-0642-4995-877a-b2e2b35e2dca
 france_travail,"France Travail - Paris - 1er, 2e, 3e et 4e arrondissements - Paul-Lelong",2.3432384,48.8678544,4 rue Paul-Lelong 75002 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75104,ade77285-25ea-4e67-8c40-a8bb440933a9
 france_travail,France Travail - Saint-Herblain,-1.6136851,47.2106229,4 rue de la Gironde 44800 Saint-Herblain,Mo-Fr 08:30-12:30,44162,adf57a20-75f2-4b39-8da7-c6bdfa43be7e
-france_travail,France Travail - Firminy,4.285220900000013,45.3816323,3 rue de l'École 42700 Firminy Cedex,Mo-Fr 08:30-12:30,42095,aebe51cc-c216-4956-abc4-514f51e83cf7
+france_travail,France Travail - Firminy,4.283266669,45.383893942,1 rue de l'Ouest 42700 Firminy,Mo-Fr 08:30-12:30,42095,aebe51cc-c216-4956-abc4-514f51e83cf7
 france_travail,France Travail - Laon,3.602249,49.557626,Avenue du Maréchal-Foch 02000 Laon,Mo-Fr 08:30-12:30,02408,af58cb50-6e4f-4655-a489-9b7ea2c68899
 france_travail,France Travail - Mitry-Mory,2.6421596,48.9739069,3 rue Paul-Gauguin 77290 Mitry-Mory,Mo-Th 09:00-13:15; Fr 09:00-12:00,77294,afc26701-577f-4ee9-bc48-f2ae6fcba89c
 france_travail,France Travail - Saintes - Saint-Georges,-0.667446062,45.754705542,5 ZAC la Bobinerie 17100 Saintes,Mo-Fr 08:30-12:30,17415,b014dc5a-ea7b-47dc-96a2-39f589d6b7ff
 france_travail,France Travail - Dunkerque,2.37948099,51.0413147,9 rue du Jeu-de-Mail 59140 Dunkerque,Mo-Th 08:30-12:45; Fr 09:00-12:00,59183,b029b2dc-52a6-40d0-8061-43e01a5675d5
 france_travail,France Travail - Beaucaire,4.613698,43.8115126,1133 chemin de Clapas-de-Cornut 30300 Beaucaire,Mo-Fr 08:30-12:30,30032,b02aa80e-0814-491e-a859-390e1a8f8bed
 france_travail,France Travail - Bergerac,0.4741083,44.8574399,2 rue Rudolf-Noureev 24100 Bergerac,Mo-Fr 08:30-12:30,24037,b0653ce8-e3ab-4d49-9b2b-1aa753d612eb
-france_travail,France Travail - Bordeaux - Saint-Jean,-0.5617422,44.8250631,4 rue Bac-Ninh 33000 Bordeaux Cedex,Mo-Fr 08:30-12:30,33063,b090bb72-ca75-49d6-98da-58060366928e
+france_travail,France Travail - Bordeaux - Saint-Jean,-0.5617422,44.8250631,4 rue Bac-Ninh 33000 Bordeaux,Mo-Fr 08:30-12:30,33063,b090bb72-ca75-49d6-98da-58060366928e
 france_travail,France Travail - Ville-la-Grand,6.24236619,46.1980687,21 rue des Tournelles 74100 Ville-la-Grand,Mo-Fr 08:30-12:30,74305,b1330ea5-dd64-463a-94f8-637fa2ce0566
 france_travail,France Travail - Saint-Martin,-63.0817027,18.0689878,Marigot  22 rue Léopold-Mingau-Concordia 97150 Saint-Martin,Mo 07:30-13:00; Tu-We 07:30-13:15; Th 07:30-13:00; Fr 07:30-11:30,97801,b1c9fa95-cffc-4a91-8291-47a6f23e752f
 france_travail,France Travail - Morne-à-l'Eau,-61.512275,16.306868,150 route Marie-Émile-Coco 97111 Morne-à-l'Eau,Mo 07:30-13:00; Tu-We 07:30-13:15; Th 07:30-13:00; Fr 07:30-11:15,97116,b2de06b7-6cd2-43a8-a5e2-abc28ca21f51
@@ -569,20 +572,21 @@ france_travail,France Travail - Montauban - Nord,1.37145899999996,44.0323062,124
 france_travail,France Travail - Guingamp,-3.1446357,48.5585375,6 rue du 48e-Régiment-d'Infanterie 22200 Guingamp,Mo-Fr 08:30-12:30,22070,b4a7cb67-a542-4e02-8439-b55790ba03e8
 france_travail,France Travail - Quimper - Sud,-4.0747356,47.9814399,50 rue du Président-Sadate 29000 Quimper,Mo-Fr 08:30-12:30,29232,b4abee7f-0490-493d-a452-95fd8cae473b
 france_travail,France Travail - Colombes,2.2525183,48.9167237,102 avenue Henri-Barbusse 92700 Colombes,Mo-Th 09:00-13:15; Fr 09:00-12:00,92025,b4eb2f12-94fe-4e4e-9b0d-d4f315009f04
-france_travail,France Travail - Roanne,4.07170589,46.0406329,2 rue des Fossés 42300 Roanne Cedex,Mo-Fr 08:30-12:30,42187,b573ed96-06a8-4629-8bab-3ccee7770f92
+france_travail,France Travail - Roanne,4.07170589,46.0406329,2 rue des Fossés 42300 Roanne,Mo-Fr 08:30-12:30,42187,b573ed96-06a8-4629-8bab-3ccee7770f92
 france_travail,France Travail - Hazebrouck,2.54812549,50.7227672,27 rue du Fer-à-Cheval 59190 Hazebrouck Cedex,Mo-Th 08:30-12:45; Fr 09:00-12:00,59295,b633f235-b337-4dda-a014-23cf140a1c42
-france_travail,France Travail - Tours - Deux-Lions,0.680453,47.3657364,40 rue James-Watt 37000 Tours Cedex 3,Mo-Fr 08:45-12:45,37261,b67aa682-c196-4ae6-bd8d-a676c1b08a96
+france_travail,France Travail - Tours - Deux-Lions,0.680134593,47.364313941,40 rue James-Watt 37000 Tours,Mo-Fr 08:45-12:45,37261,b67aa682-c196-4ae6-bd8d-a676c1b08a96
 france_travail,France Travail - Saint-Maximin,2.467657,49.241542,415 rue Claire-Lacombe 60740 Saint-Maximin Cedex,Mo-Fr 08:30-12:30,60589,b69b47bb-2d9d-4298-a1d3-080d36b3d03d
-france_travail,France Travail - Blois - Gare,1.3241,47.584316,9 rue Auguste-Poulain 41000 Blois,Mo-Fr 08:45-12:45,41018,b7369774-55db-4e36-9c46-d89048885e39
+france_travail,France Travail - Blois - Gare,1.325954664,47.584123102,9 rue Auguste-Poulain 41000 Blois,Mo-Fr 08:45-12:45,41018,b7369774-55db-4e36-9c46-d89048885e39
 france_travail,France Travail - Épernay,3.9613529,49.0504371,2 rue Marcel-Paul 51200 Épernay Cedex,Mo-Fr 08:30-12:30,51230,b75edee7-07df-46d8-b34d-25862feff97d
 france_travail,France Travail - Aubervilliers,2.3912841,48.9107503,124 rue Henri-Barbusse 93300 Aubervilliers,Mo-Th 09:00-13:15; Fr 09:00-12:00,93001,b785f188-0210-4ec9-b257-7e0caaf0c597
 france_travail,France Travail - Boulogne-sur-Mer,1.6107841,50.718847,135 boulevard Daunou 62200 Boulogne-sur-Mer,Mo-Th 08:30-12:45; Fr 09:00-12:00,62160,b82db6f6-7866-4e14-a530-7ea2836e782a
 france_travail,France Travail - Mayenne,-0.7209155,48.1544425,8 rue de Charles-de-Blois 53100 Mayenne,Mo-Fr 08:30-12:30,53147,b867659e-5a97-43af-9b85-fc319fa9caa5
 france_travail,France Travail - Miramas,4.998346122,43.575897531,4 boulevard Jacques-Minet 13140 Miramas,Mo-Fr 08:30-12:30,13063,b870526d-3494-4729-b407-215ba59a8bae
 france_travail,France Travail - Basse-Terre - Desmarais,-61.7158484,16.0014667,Rue Mauchanal 97100 Basse-Terre,Mo 07:30-13:00; Tu-We 07:30-13:15; Fr 07:30-13:00; Fr 07:30-11:30,97105,b894f762-6689-40dd-8939-f37bf6a3d086
+france_travail,France Travail - Pessac,-0.65473882,44.782652634,15 Avenue Léonard-de-Vinci 33600 Pessac Cedex,Mo-Fr 08:30-12:30,33318,b916dc90-6d4f-4c64-b24e-bf7448cd8cef
 france_travail,France Travail - Béziers - Courondelle,3.215795,43.344233,75 boulevard Colette-Besson 34500 Béziers,Mo-Fr 08:30-12:30,34032,b966e87a-90ed-4cab-ae2c-fc0edfb4920e
 france_travail,France Travail - Digoin,1.03239009999993,47.5394583,1 rue des Charmes 71160 Digoin,Mo-Fr 08:30-12:30,71176,b9691dba-2f86-4ac7-b438-32eba4850a4e
-france_travail,France Travail - Voiron,5.5952564,45.3609988,93 boulevard Franklin-Roosevelt 38500 Voiron Cedex,Mo-Fr 08:30-12:30,38563,b9c6ade3-2cbb-4bfe-b8d5-fbd112872f7e
+france_travail,France Travail - Centre-Isère - Voiron,5.5952564,45.3609988,93 boulevard Franklin-Roosevelt 38500 Voiron,Mo-Fr 08:30-12:30,38563,b9c6ade3-2cbb-4bfe-b8d5-fbd112872f7e
 france_travail,France Travail - Savigny-le-Temple,2.58131839,48.5943285,29 avenue Jules-Vallès 77176 Savigny-le-Temple,Mo-Th 09:00-13:15; Fr 09:00-12:00,77445,b9c9a97b-d45d-40a7-b168-b2fb1aa8928e
 france_travail,France Travail - Étampes,2.1616782,48.4328054,15 rue de Saclas 91150 Étampes,Mo-Th 09:00-13:15; Fr 09:00-12:00,91223,b9cb9d55-087f-4699-b8d4-740bac0df816
 france_travail,France Travail - Saint-Gilles-Croix-de-Vie,-1.0620371,46.5554913,7 route de la Roche-sur-Yon 85804 Saint-Gilles-Croix-de-Vie,Mo-Fr 08:30-12:30,85222,b9ea3f5f-a068-46f3-9fae-c39cd0eeb9a7
@@ -620,7 +624,7 @@ france_travail,France Travail - L'Haÿ-les-Roses,2.3413458,48.7833351,17 bouleva
 france_travail,France Travail - Brétigny-sur-Orge,2.29702420000001,48.6039234,11 rue Georges-Charpak 91220 Brétigny-sur-Orge,Mo-Th 09:00-13:15; Fr 09:00-12:00,91103,c355ab28-2763-42e6-8411-46496aaad238
 france_travail,France Travail - Confolens,0.656241078,46.019905801,Rue de l'Ouillette 16500 Confolens,Mo-Fr 08:30-12:30,16106,c3845a40-c0f9-444d-adb7-8c80d21899c1
 france_travail,France Travail - Avon,2.72959149,48.4182926,9 avenue du Général-de-Gaulle 77210 Avon,Mo-Th 09:00-13:15; Fr 09:00-12:00,77014,c3b9fdbe-7464-4806-be95-b44f5f9c9976
-france_travail,France Travail - Saint-Malo,-1.988724,48.65047,7 rue Augustin-Fresnel 35400 Saint-Malo Cedex,Mo-Fr 08:30-12:30,35288,c3e4fc99-f834-47f1-9c86-df959ade062b
+france_travail,France Travail - Saint-Malo,-1.988724,48.65047,7 rue Augustin-Fresnel 35400 Saint-Malo,Mo-Fr 08:30-12:30,35288,c3e4fc99-f834-47f1-9c86-df959ade062b
 france_travail,France Travail - Mourenx,-0.3683416,43.3130142,Avenue Pierre-Angot 64150 Mourenx,Mo-Fr 08:30-12:30,64410,c3e9321a-6bdd-4f5f-9ef4-c2cfc060f014
 france_travail,France Travail - Montrouge,2.3009987,48.8120917,223 avenue Pierre-Brossolette 92120 Montrouge,Mo-Th 09:00-13:15; Fr 09:00-12:00,92049,c3fed55a-1f1c-4919-8ab6-11910ae9a587
 france_travail,France Travail - Mende,3.4837198,44.5231035,44 bis avenue du 11-Novembre 48000 Mende,Mo-Fr 08:30-12:30,48095,c4b69821-2fcf-4b43-9468-e3a81c2bf376
@@ -647,7 +651,7 @@ france_travail,France Travail - Vesoul,6.1559043,47.6234719,4 rue du Docteur-Jea
 france_travail,France Travail - Rezé,-1.55550470000003,47.1933823,7 rue Eugène-Orieux 44402 Rezé,Mo-Fr 08:30-12:30,44143,c9ca8a11-c3b3-4a17-a848-702c4c20b2ce
 france_travail,France Travail - Calais - Saint-Exupéry,1.8938305,50.9462814,60 avenue Antoine-de-Saint-Exupéry 62100 Calais,Mo-Th 08:30-12:45; Fr 09:00-12:00,62193,c9d33567-eda1-474c-ac67-2cf1cdccd1b2
 france_travail,France Travail - Orléans - Sud,1.932974,47.837235,18 avenue de la Bolière 45000 Orléans,Mo-Fr 08:45-12:45,45234,c9e06451-3d11-47a4-8e11-12a43b4bcd95
-france_travail,France Travail - Vendôme,1.0608285665512085,47.798828125,5 rue Denis-Diderot 41100 Vendôme Cedex,Mo-Fr 08:45-12:45,41269,c9e3ba6e-12e2-4ea8-88ca-0c20271d26fd
+france_travail,France Travail - Vendôme,1.060735197,47.798935506,5 rue Denis-Diderot 41100 Vendôme,Mo-Fr 08:45-12:45,41269,c9e3ba6e-12e2-4ea8-88ca-0c20271d26fd
 france_travail,France Travail - Saint-Pierre-des-Corps,0.7097268,47.3858679,55 avenue Georges-Pompidou 37700 Saint-Pierre-des-Corps,Mo-Fr 08:45-12:45,37233,c9ec11b0-cc80-4ce1-a316-316cc7bd7c5e
 france_travail,France Travail - Cergy,2.0767365,49.0406104,4 rue des Chauffours 95000 Cergy,Mo-Th 09:00-13:15; Fr 09:00-12:00,95127,ca1e6405-f736-478f-b481-817220efbbd0
 france_travail,France Travail - Trignac,-2.1882259,47.3175193,7 avenue Barbara 44570 Trignac,Mo-Fr 08:30-12:30,44210,ca2e8cc8-f60e-4426-be95-1fdf49bfed25
@@ -661,6 +665,7 @@ france_travail,France Travail - Angoulême - La Couronne,0.0912624,45.6131686,3 
 france_travail,France Travail - Seynod,6.101682,45.886782,2 rue du Champ-de-la-Taillée 74600 Seynod Cedex,Mo-Fr 08:30-12:30,74010,cc315762-f016-4fb1-a354-362e62f9b4a8
 france_travail,France Travail - Gérardmer,6.874514,48.067973,3 rue des Vosges 88400 Gérardmer Cedex,Mo-Fr 08:30-12:30,88196,cc31c92b-225e-419c-a5fe-0958a7711f7a
 france_travail,France Travail - Saint-Amand-Montrond,2.5319728,46.7229436,34 rue Auguste-et-Charles-Moricault 18200 Saint-Amand-Montrond,Mo-Fr 08:45-12:45,18197,cc415524-9256-420b-85d1-806e0dab9fb4
+france_travail,France Travail - Saint-Étienne - Technopole,4.393429092,45.457575442,59 rue des Aciéries 42000 Saint-Étienne,Mo-Fr 08:30-12:30,42218,cc8e58b2-9f86-418e-88f7-e30723b64a13
 france_travail,France Travail - Creil - Nogent,2.4840927,49.275377,116 avenue de l'Europe 60180 Nogent-sur-Oise Cedex,Mo-Fr 08:30-12:30,60463,ccbcb0cb-baf7-4a85-ab34-af11a5d8f0cd
 france_travail,France Travail - Laval - Ferrié,-0.789385,48.080667,Place Général-Ferrié 53000 Laval,Mo-Fr 08:30-12:30,53130,cccf76d6-a47b-45ee-b0e6-5e9bed670f63
 france_travail,France Travail - Épinal - Dutac,6.44208070000002,48.17831,3 place du Général-de-Gaulle 88000 Épinal Cedex,Mo-Fr 08:30-12:30,88160,cd037203-dfa8-4aa2-9983-bceee16fb6dc
@@ -668,7 +673,7 @@ france_travail,France Travail - Lyon - Part-Dieu,4.861608,45.755508,26 rue Gén�
 france_travail,France Travail - Istres,4.985502,43.496062,4 allée de la Solidarité 13800 Istres,Mo-Fr 08:30-12:30,13047,cd2a9ae4-c381-48ed-adb7-9a015478ae7a
 france_travail,France Travail - Rouen - Aubette,1.1311738,49.4386399,17 rue de l'Aubette 76000 Rouen,Mo-Fr 08:30-12:30,76540,cda6df10-8ce9-456a-9992-2bd89fae229c
 france_travail,France Travail - Embrun,6.496767,44.563563,Place Dongois 05100 Embrun,Mo-Fr 08:30-12:30,05046,ce0080c3-7d5b-47c0-a099-377db4f509c4
-france_travail,France Travail - Rennes - Centre,-1.689386,48.10568,22 rue de Redon 35000 Rennes Cedex,Mo-Fr 08:30-12:30,35238,ce56567a-077c-4b2d-9b14-fe39ae5c1474
+france_travail,France Travail - Rennes - Centre,-1.689386,48.10568,22 rue de Redon 35000 Rennes,Mo-Fr 08:30-12:30,35238,ce56567a-077c-4b2d-9b14-fe39ae5c1474
 france_travail,France Travail - La Trinité,-60.9623896,14.6786532,Beausejour   97220 La Trinité,Mo-Fr 07:30-12:00,97230,cec2e439-4da8-44b0-9cce-3a5d6de2d841
 france_travail,France Travail - Cavaillon,5.0426252,43.8502075,601 avenue de la Libération 84300 Cavaillon,Mo-Fr 08:30-12:30,84035,cee2dd36-111c-4c74-ae93-4f9be75bded6
 france_travail,France Travail - Machecoul,-1.8129887,46.9863973,19 rue Marcel-Brunelière 44270 Machecoul,Mo-Fr 08:30-12:30,44087,cefb4d40-140d-4ba7-baec-46e2914423a2
@@ -703,7 +708,6 @@ france_travail,France Travail - Château-Gontier,-0.7069,47.8267669,1 rue de l'A
 france_travail,France Travail - Meaux,2.8821315,48.9602213,12 boulevard Jean-Rose 77100 Meaux,Mo-Th 09:00-13:15; Fr 09:00-12:00,77284,d5d7e65f-5456-4472-a141-350cc17114f2
 france_travail,France Travail - Falaise,-0.18756196,48.896255597,2 rue de la Résistance 14700 Falaise,Mo-Fr 08:30-12:30,14258,d650d38a-9297-47a1-9314-5b7ceec07abd
 france_travail,France Travail - Belfort - Europe,6.844816,47.6342737,8 place d'Europe 90000 Belfort Cedex,Mo-Fr 08:30-12:30,90010,d74f6020-1d0c-4e13-a4e5-fcc52f11fd60
-france_travail,France Travail - Toulouse - La Cépière,1.400773,43.5860607,4 chemin du Pigeonnier-Cépière 31000 Toulouse,Mo-Fr 08:45-12:45,31555,d7e25f3b-00c9-46a7-b533-fc71cc4ba45b
 france_travail,France Travail - Le Quesnoy,3.63232659,50.2634789,139 bis route de Valenciennes 59530 Le Quesnoy,Mo-Th 08:30-12:45; Fr 09:00-12:00,59481,d7f623ef-6fee-4168-89e4-e459fc633292
 france_travail,France Travail - Harfleur,0.1959208,49.5035997,10 avenue du Clos-Labédoyère 76700 Harfleur,Mo-Fr 08:30-12:30,76341,d84d0b41-e586-4f35-bd75-d8d8ee755e90
 france_travail,France Travail - Labège,1.5150317,43.5350104,298 allée du Lac 31670 Labège,Mo-Fr 08:30-12:30,31254,d8acae89-4403-408e-ac00-7b2ef8f84436
@@ -727,7 +731,6 @@ france_travail,France Travail - Bellac,1.050513,46.1219619,4 ter rue du Généra
 france_travail,France Travail - Saumur,-0.0769619,47.2441132,680 avenue François-Mitterrand 49400 Saumur,Mo-Fr 08:30-12:30,49328,dec7b788-7f6b-4770-b8db-588958c63973
 france_travail,France Travail - Saint-Gaudens,0.7204163,43.1092245,5 bis avenue Anselme-Arrieu 31800 Saint-Gaudens,Mo-Fr 08:30-12:30,31483,df22634d-bad4-46e6-8bc3-6db66ca472ef
 france_travail,France Travail - Revin,4.6405374,49.9371611,10 rue Louise-Weiss 08500 Revin,Mo-Fr 08:30-12:30,08363,e0917bb6-2910-44d3-a3ae-b0ad2c9236d6
-france_travail,France Travail - Amboise,0.9759691,47.4181348,10 rue de l'Ancienne-Fonderie 37530 Nazelles-Négron,Mo-Fr 08:45-12:45,37003,e15f65fd-5eb4-4284-8134-0752f9c45b16
 france_travail,France Travail - Meythet,6.09139089,45.9217868,1 rue de l'Euro 74960 Meythet,Mo-Fr 08:30-12:30,74010,e18f005a-81c0-4f4b-8c79-3428893e75b6
 france_travail,France Travail - Besançon - Temis,6.0012677,47.2527161,17A rue Alain-Savary 25000 Besançon,Mo-Fr 08:30-12:30,25056,e1c2c11b-5ad0-4d14-95bf-85a26f260a05
 france_travail,France Travail - Plaine-Orientale,9.4045363,42.0167912,Résidence Linari 2 20240 Ghisonaccia,Mo-Th 08:30-12:30; Fr 08:30-11:30,2B251,e1e497f3-7833-493f-8f6d-c2d490ca6c2e
@@ -739,30 +742,30 @@ france_travail,France Travail - Morteau,6.6107585,47.0570016,1A rue du Clos-Jeun
 france_travail,France Travail - Lille - Port-fluvial,3.0324795,50.627086,43 boulevard de la Moselle 59000 Lille,Mo-Th 08:30-12:45; Fr 09:00-12:00,59350,e2abe0c3-0b66-46fd-8ad6-5532569fc931
 france_travail,France Travail - Nîmes - Vauvert,4.268456476,43.707326162,79 Avenue Mas-Saint-Laurent 30600 Vauvert,Mo-Fr 08:30-12:30,30189,e2aeb97b-6577-463b-bfe6-d04ab97fe2b7
 france_travail,France Travail - Cayenne - Collery,-52.3280811,4.9012397,ZI de Collery   97300 Cayenne Cedex,Mo 07:30-13:30; Tu-We 07:30-12:30; Th 07:30-13:30; Fr 07:30-12:30,97302,e2bd89b9-19ca-42c3-8675-a1b45e9511ab
-france_travail,France Travail - Auch,0.584593899999959,43.6357778,8 rue Racine 32000 Auch,Mo-Fr 08:30-12:30,32013,e37f7fe3-9720-456f-9673-bc9f66b5c3c6
+france_travail,France Travail - Auch,0.584615,43.635783,8 rue Racine 32000 Auch,Mo-Fr 08:30-12:30,32013,e37f7fe3-9720-456f-9673-bc9f66b5c3c6
 france_travail,France Travail - Bourg-en-Bresse,5.2480316,46.218156,323 avenue de Parme 01000 Bourg-en-Bresse Cedex,Mo-Fr 08:30-12:30,01053,e43d5897-78a6-475b-bb7c-40d31930a56e
-france_travail,France Travail - Montbrison,4.09522849,45.5998372,64 rue des Grands-Chênes 42600 Montbrison Cedex,Mo-Fr 08:30-12:30,42147,e46764d3-40ae-42a9-92ae-74261bb5fcbf
+france_travail,France Travail - Montbrison,4.09522849,45.5998372,64 rue des Grands-Chênes 42600 Montbrison,Mo-Fr 08:30-12:30,42147,e46764d3-40ae-42a9-92ae-74261bb5fcbf
 france_travail,France Travail - Cluses,6.5661943,46.0705405,1125 avenue Georges-Clemenceau 74300 Cluses,Mo-Fr 08:30-12:30,74081,e5716422-05eb-476c-ba63-d464659026a3
 france_travail,France Travail - Évreux - Brossolette,1.164668,49.022808,41 rue Pierre-Brossolette 27000 Évreux,Mo-Fr 08:30-12:30,27229,e5a467d8-d7a3-4dee-bfb3-883299146e30
 france_travail,France Travail - Clermont-Ferrand - Jouhaux,3.117158,45.796194,68 boulevard Léon-Jouhaux 63000 Clermont-Ferrand,Mo-Fr 08:30-12:30,63113,e5da167e-403a-4b89-bfa6-3a07d10a3d7c
 france_travail,France Travail - Lunéville,6.4940021,48.5880881,1 bis rue Charles-Rivolet 54300 Lunéville Cedex,Mo-Fr 08:30-12:30,54329,e5e037f3-d664-451c-a50c-f45989568d3d
-france_travail,France Travail - Bourgoin-Jallieu,5.26136559,45.5895759,Rue Claude-Chappe 38300 Bourgoin-Jallieu Cedex,Mo-Fr 08:30-12:30,38053,e5fe9891-59ca-4666-b98a-4477d3b36c6b
+france_travail,France Travail - Bourgoin-Jallieu,5.26136559,45.5895759,Rue Claude-Chappe 38300 Bourgoin-Jallieu,Mo-Fr 08:30-12:30,38053,e5fe9891-59ca-4666-b98a-4477d3b36c6b
 france_travail,France Travail - Annemasse,6.2429027,46.1891374,2 C avenue de Verdun 74100 Annemasse Cedex,Mo-Fr 08:30-12:30,74012,e60553a3-4551-4ba7-a033-8bc6480c1501
 france_travail,France Travail - Bruay-la-Buissière,2.5555492,50.4756596,825 rue Raoul-Briquet 62700 Bruay-la-Buissière,Mo-Th 08:30-12:45; Fr 09:00-12:00,62178,e6576bb4-0779-4fd0-90a7-d0bd8e4446b9
 france_travail,France Travail - Ambert,3.7342212,45.5493749,2 allée du Parc 63600 Ambert,Mo-Fr 08:30-12:30,63003,e65e0cc3-5b7d-44c5-9fbb-b14418d10c88
 france_travail,France Travail - Cognac,-0.323179,45.69041,11 rue de l'Avenir 16100 Cognac,Mo-Fr 08:30-12:30,16102,e6b2ebe3-c26d-4a56-b531-40de9028d9b9
 france_travail,France Travail - Montval-sur-Loir,0.4278520000000299,47.684664,19 rue du Mont-sur-Loir 72500 Château-du-Loir,Mo-Fr 08:30-12:30,72071,e6b4fbcb-fe7b-4a84-9d99-f6a4d09b1904
-france_travail,France Travail - Langon,-0.245126,44.555419,22 E route de Bazas 33210 Langon Cedex,Mo-Fr 08:30-12:30,33227,e6c7acf1-40c9-416b-8981-1401e1e00f20
+france_travail,France Travail - Langon,-0.245126,44.555419,22E route de Bazas 33210 Langon,Mo-Fr 08:30-12:30,33227,e6c7acf1-40c9-416b-8981-1401e1e00f20
 france_travail,France Travail - Pamiers,1.609074,43.146146,5bis Route de Tremege 09100 Pamiers,Mo-Fr 08:30-12:30,09225,e721985a-d63f-41a8-8192-620a1a2844c7
-france_travail,France Travail - Rennes - Nord,-1.677816,48.1296722,4 rue René-Dumont 35000 Rennes Cedex 7,Mo-Fr 08:30-12:30,35238,e7899293-f6ce-4c72-bfe5-e3a70c7e44f1
-france_travail,France Travail - Mérignac,-0.6741295,44.8338531,15 rue Thalès 33700 Mérignac Cedex,Mo-Fr 08:30-12:30,33281,e7fd51df-0c58-4466-bbaa-5b379e5fe244
+france_travail,France Travail - Rennes - Nord,-1.677816,48.1296722,4 rue René-Dumont 35000 Rennes,Mo-Fr 08:30-12:30,35238,e7899293-f6ce-4c72-bfe5-e3a70c7e44f1
+france_travail,France Travail - Mérignac,-0.6741295,44.8338531,15 rue Thalès 33700 Mérignac,Mo-Fr 08:30-12:30,33281,e7fd51df-0c58-4466-bbaa-5b379e5fe244
 france_travail,France Travail - Paris - 20e arrondissement - Piat,2.38342799,48.8728111,51 rue Piat 75020 Paris,Mo-Th 09:00-13:15; Fr 09:00-12:00,75120,e80e3832-328c-4757-bc27-19a84a8a2867
 france_travail,France Travail - Blois - Laplace,1.328258,47.601925,67 avenue de Châteaudun 41000 Blois,Mo-Fr 08:45-12:45,41018,e825d130-8afc-4f79-a891-d327dad17a08
 france_travail,France Travail - Caen - Fresnel,-0.356702,49.16275,8 rue Raymonde-Bail 14000 Caen Cedex 4,Mo-Fr 08:30-12:30,14118,e8d3bed4-1cb3-43a5-aca6-365c2eb79d38
 france_travail,France Travail - Avignon - Realpanier,4.85684,43.950383,21 rue Claude-Chabrol 84000 Avignon Cedex 9,Mo-Fr 08:30-12:30,84007,e8fc1f44-6c56-4334-8eaa-0c8c9799f408
 france_travail,France Travail - Colmar - Europe,7.326902,48.077228,10 rue d’Amsterdam 68000 Colmar,Mo-Fr 08:30-12:30,68066,e922e7ed-f7fe-4607-96c2-a23d6bcbdf2f
 france_travail,France Travail - Vitry-le-François,4.5890505,48.722568,16 bis boulevard Carnot 51300 Vitry-le-François Cedex,Mo-Fr 08:30-12:30,51649,e995a2eb-f92f-436b-b667-a294ebd75efc
-france_travail,France Travail - Rennes - Ouest,-1.73298,48.10545,167 route de Lorient 35000 Rennes Cedex,Mo-Fr 08:30-12:30,35238,e9a6217b-9724-4e8e-a241-53d25f06ec30
+france_travail,France Travail - Rennes - Ouest,-1.73298,48.10545,167 route de Lorient 35000 Rennes,Mo-Fr 08:30-12:30,35238,e9a6217b-9724-4e8e-a241-53d25f06ec30
 france_travail,France Travail - Perpignan - Saint-Assiscle,2.875001,42.689341,3 rue Vigneronne 66000 Perpignan,Mo-Fr 08:30-12:30; Th 08:30-12:30; Fr 08:30-15:30,66136,ea2bb9be-1432-44d9-a598-88463236d021
 france_travail,France Travail - Saint-Marcellin,5.3142808,45.1464017,4 rue Lafontaine 38160 Saint-Marcellin,Mo-Fr 08:30-12:30,38416,ea819ea1-291b-465c-bf5e-6b01e10811f0
 france_travail,France Travail - Toulouse - Jolimont,1.4429513,43.604363,7 avenue Léon-Blum 31000 Toulouse,Mo-Fr 08:30-12:30,31555,eb05e56a-2187-4267-8bac-572147e52303
@@ -774,7 +777,7 @@ france_travail,France Travail - Argenton-sur-Creuse,1.52146,46.58633,1 rue des �
 france_travail,France Travail - Lannemezan,0.3849423999999999,43.12329769999999,Place du 14-Juillet 65300 Lannemezan,Mo-Fr 08:30-12:30,65258,edbe321d-198f-4a6c-b1e2-eb88366d1aa6
 france_travail,France Travail - Gravelines,2.12918479,50.9880577,29 rue de Dunkerque 59820 Gravelines,Mo-Th 08:30-12:45; Fr 09:00-12:00,59273,eddc3b2d-5748-4baa-8202-5787da8e374f
 france_travail,France Travail - Cayenne - Montabo,-52.3060925,4.9478122,Chemin Grant 97300 Cayenne,Mo-Fr 07:30-13:30; Tu-We 07:30-12:30; Th 07:30-13:30; Fr 07:30-12:30,97302,ede13275-0511-45dd-97eb-ceaf2a2a7e8f
-france_travail,France Travail - Cenon,-0.53114979999998,44.8574079,3 rue René-Bonnac 33150 Cenon,Mo-Fr 08:30-12:30,33119,edfc9521-74ac-48d6-a5c0-7f09241f6611
+france_travail,France Travail - Cenon,-0.530888,44.857375,3 rue René-Bonnac 33150 Cenon,Mo-Fr 08:30-12:30,33119,edfc9521-74ac-48d6-a5c0-7f09241f6611
 france_travail,France Travail - Issy-les-Moulineaux - agence cadres,2.2738418,48.8281491,2 rue Victor-Hugo 92130 Issy-les-Moulineaux,Mo-Th 09:00-13:15; Fr 09:00-12:00,92040,ee139874-5140-4070-ad5c-f2031fa24bc3
 france_travail,France Travail - Pont-l'Abbé,-4.223294284,47.862369554,24 rue Roger-Signor 29120 Pont-l'Abbé,Mo-Fr 08:30-12:30,29220,eea74488-6df5-4518-ab65-c3c1bfc8b5c0
 france_travail,France Travail - Douarnenez,-4.328619,48.093228,23 rue de l'Aubépine 29100 Douarnenez,Mo-Fr 08:30-12:30,29046,ef3f4b88-048b-41b3-ab34-fd3ca8876119
@@ -793,7 +796,6 @@ france_travail,France Travail - Soissons,3.3391118,49.3924826,24 rue de l'Émail
 france_travail,France Travail - Abymes,-61.5224419,16.2364582,16 ZAC de Dothemare 97139 Les-Abymes,Mo 07:45-13:00; Tu-We 07:45-13:15; Th 07:45-13:00; Fr 07:45-11:15,97101,f27f27db-1c2d-4510-b781-eae5f84b7686
 france_travail,France Travail - Bayeux,2.3023,48.9314,2 boulevard Maréchal-Montgomery 14400 Bayeux Cedex,Mo-Fr 08:30-12:30,14047,f28bbeb8-9d22-436d-aff9-7a6965fc873c
 france_travail,France Travail - Alfortville,2.4228128,48.8068845,7 rue Roger-Mordrel 94140 Alfortville,Mo-Th 09:00-13:15; Fr 09:00-12:00,94002,f2c8baeb-fce8-48f4-b45f-961e238de822
-france_travail,France Travail - Toulouse - Occitane,1.448902,43.603579,6 place Occitane 31000 Toulouse,Mo-Fr 08:45-12:45,31555,f2ea4e71-5c31-40e8-afb3-21de7d44a036
 france_travail,France Travail - Aubigny-sur-Nère,2.4372939,47.488068,27 avenue de la Gare 18700 Aubigny-sur-Nère,Mo-Fr 08:45-12:45,18015,f2ff5466-ecc4-43cc-afc7-39779f5ae88d
 france_travail,France Travail - Châteaurenard,4.8648675,43.883828,638 avenue de la Libération 13160 Châteaurenard,Mo-Fr 08:30-12:30,13027,f35e7cac-5689-4770-a8ac-b7ecc257c495
 france_travail,France Travail - Liévin,2.8009502,50.416887,207 rue Silas-Goulet 62800 Liévin,Mo-Th 08:30-12:45; Fr 09:00-12:00,62510,f3865712-4660-4287-9e92-029e55faec28
@@ -809,18 +811,19 @@ france_travail,France Travail - Nantes - Chantenay,-1.5895174,47.1985254,5 chemi
 france_travail,France Travail - Saint-Denis,2.3544772,48.9444818,5 avenue du Colonel-Fabien 93200 Saint-Denis,Mo-Th 09:00-13:15; Fr 09:00-12:00,93066,f581bc90-7498-4ac5-b611-cf23145be325
 france_travail,France Travail - Thouars,-0.2089816,46.9798222,8 rue Gambetta 79100 Thouars,Mo-Fr 08:30-12:30,79329,f5843473-0f5d-48a5-a033-5e8f48adb0af
 france_travail,France Travail - Saint-Avold,6.70904480000002,49.1035706,2 rue du Général-de-Gaulle 57500 Saint-Avold Cedex,Mo-Fr 08:30-12:30,57606,f5be500e-e795-4606-87b8-bf11d12b6df1
-france_travail,France Travail - Grenoble - Europole,5.71196169,45.1917303,1 rue d'Arménie 38000 Grenoble Cedex 1,Mo-Fr 08:30-12:30,38185,f66817f1-6e1b-4e09-b774-a28dbdd150ca
+france_travail,France Travail - Grenoble - Europole,5.71196169,45.1917303,1 rue d'Arménie 38000 Grenoble,Mo-Fr 08:30-12:30,38185,f66817f1-6e1b-4e09-b774-a28dbdd150ca
 france_travail,France Travail - Asnières-sur-Seine,2.2835459,48.9181753,61 avenue Gabriel-Péri 92600 Asnières-sur-Seine,Mo-Th 09:00-13:15; Fr 09:00-12:00,92004,f6a340c6-3563-4caf-bcd0-93519d5ac973
 france_travail,France Travail - Nogent-sur-Marne,2.4931386,48.8390529,3-5 rue Jean-Monnet 94130 Nogent-sur-Marne,Mo-Th 09:00-13:15; Fr 09:00-12:00,94052,f6a5ed9b-7d37-4520-9ad4-7f448e6443d6
 france_travail,France Travail - Armentières,2.8684074,50.6894256,21 avenue de l'Europe 59280 Armentières,Mo-Th 08:30-12:45; Fr 09:00-12:00,59017,f6fb5aef-00c4-4b37-8615-03871bf08d9b
 france_travail,France Travail - Nantes - Nord,-1.5691641,47.2633922,50 boulevard Albert-Einstein 44000 Nantes Cedex 3,Mo-Fr 08:30-12:30,44109,f7a25327-a63a-4766-adfd-4e1466984261
 france_travail,France Travail - Gaillac,1.91440839999996,43.9036388,510 avenue François-Mitterrand 81600 Gaillac,Mo-Fr 08:30-12:30,81099,f7d067e3-5e03-4e8e-92bc-3bb6d8754eae
-france_travail,France Travail - Saint-Chamond,4.5119224,45.4733346,1 bis rue du Port-Sec 42400 Saint-Chamond Cedex,Mo-Fr 08:30-12:30,42207,f94b31db-d988-4ad6-add3-aed1938426a8
+france_travail,France Travail - Saint-Chamond,4.5119224,45.4733346,1 bis rue du Port-Sec 42400 Saint-Chamond,Mo-Fr 08:30-12:30,42207,f94b31db-d988-4ad6-add3-aed1938426a8
 france_travail,France Travail - Saint-Jean-d'Angély,-0.541665,45.960985,1 rue Le-Corbusier 17400 Saint-Jean-d'Angély,Mo-Fr 08:30-12:30,17347,f97e43f8-e72b-4030-b8f7-ced30cb641ac
-france_travail,France Travail - Le Cannet,7.01902,43.576551,13 chemin de l'Industrie 06110 Le Cannet,Mo-Fr 08:30-12:30,06030,f9a57e01-3624-4fb6-8993-dcbe59e4f14a
+france_travail,France Travail - Le Cannet,6.990383,43.574999,13 chemin de l'Industrie 06110 Le Cannet,Mo-Fr 08:30-12:30,06030,f9a57e01-3624-4fb6-8993-dcbe59e4f14a
 france_travail,France Travail - Marseille - La Valentine,5.464362,43.289705,10 route de la Valentine 13011 Marseille Cedex 11,Mo-Fr 08:30-12:30,13211,f9f3793a-00ac-4194-bbee-94bb9a3a86b1
 france_travail,France Travail - Compiègne - Margny,2.82419959,49.4237487,25 rue Pierre-et-Marie-Curie 60280 Margny-lès-Compiègne,Mo-Fr 08:30-12:30,60382,fa13107f-a561-4f91-b456-a9f0dac909c8
 france_travail,France Travail - Clisson,-1.2778665,47.0885971,7 allée du Chantre 44190 Clisson,Mo-Fr 08:30-12:30,44043,fa14ba9f-c33b-405a-b633-6a27af2c4b75
+france_travail,France Travail - Saint-Magne,-0.062556247,44.850612349,Point relais Saint-Magne 14 Chemin des Vignes 33350 Saint-Magne-de-Castillon,Mo-Fr 08:30-12:30,33436,fabb3d23-c1a1-470a-af17-151749d19214
 france_travail,France Travail - Stains,2.39122059,48.9523834,35 rue du Moulin-Neuf 93240 Stains,Mo-Th 09:00-13:15; Fr 09:00-12:00,93072,fb027050-c8d5-4bd4-9998-4b41424ea9fe
 france_travail,France Travail - Narbonne,2.9740975,43.1530044,100 rue Antoine-Becquerel 11100 Narbonne,Mo-Fr 08:30-12:30,11262,fb2271c5-4432-4140-bc57-aad48cc25ed0
 france_travail,France Travail - Arc-lès-Gray,5.58775460000004,47.4532341,1 avenue des Parcs 70100 Arc-lès-Gray,Mo-Fr 08:30-12:30,70026,fb264740-cdfb-4ff7-9ed2-b65ea04beea0
