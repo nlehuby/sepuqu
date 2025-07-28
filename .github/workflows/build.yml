@@ -6,7 +6,6 @@ on:
   push:
     branches-ignore:
       - 'gh-pages'
-
       
 jobs:
   build:
@@ -43,6 +42,25 @@ jobs:
     - name: Pole Emploi
       run: |
         cat output/services_publics.csv |qsv search -s categorie '^france_travail' | qsv select categorie,official_name,longitude,latitude,address_txt,opening_hours,insee,id > output/france_travail.csv        
+    - name: Check diff
+      id: check
+      run: |
+        wget https://raw.githubusercontent.com/nlehuby/sepuqu/refs/heads/gh-pages/focus_with_osm.csv -O old_focus_with_osm.csv
+        diff old_focus_with_osm.csv output/focus_with_osm.csv > diff_focus_output.txt || echo "Diff"
+        if [ -s diff_focus_output.txt ]; then
+          echo "files_different=true" >> "$GITHUB_OUTPUT"
+        else
+          echo "files_different=false" >> "$GITHUB_OUTPUT"
+        fi
+    - name: Alert if diff
+      if: ${{ steps.check.outputs.files_different == 'true' }}
+      uses: JasonEtco/create-an-issue@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        DIFFED_FILE: focus
+        steps.check.outputs.files_different: ${{ steps.check.outputs.files_different }}
+      with:
+        filename: .github/alert_template.md
     - name: Deploy
       if: ${{ github.ref == 'refs/heads/main' }}
       uses: peaceiris/actions-gh-pages@v3
