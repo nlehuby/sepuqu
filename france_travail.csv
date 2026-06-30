@@ -392,7 +392,7 @@ france_travail,Agence France Travail MAUBEUGE GARE,3.971514,50.272899,4 Avenue d
 france_travail,Agence France Travail Drancy,2.453508,48.920962,175 Avenue Henri Barbusse 93700 Drancy,,93029,7b969ed5-e213-4dd3-865c-1b69f29b806e
 france_travail,Agence France Travail FOUGERES,-1.190816,48.348921,15 Rue Hippolyte Rehault 35300 Fougères,Mo-Fr 08:30-12:30,35115,7bbad75f-45fb-4cfc-8275-4158cef63e56
 france_travail,Agence France Travail COLOMIERS,1.309243,43.613642,25 Boulevard Victor Hugo 31770 Colomiers,Mo-Fr 08:30-12:30,31149,7c4d493b-252a-43a2-b178-45bde044bc37
-france_travail,Agence France Travail Rueil-Malmaison,2.200132,48.876602,128 Rue Danton 92500 Rueil-Malmaison,,92063,7c8f9b3b-9008-414d-8e53-e9feefaf303b
+france_travail,Agence France Travail Rueil-Malmaison,2.166455,48.88951,Rue Louis Bleriot 92500 Rueil-Malmaison,,92063,7c8f9b3b-9008-414d-8e53-e9feefaf303b
 france_travail,Agence France Travail CASTELGINEST,1.427242,43.691806,Rue du Pont Vieil 31780 Castelginest,Mo-Fr 08:30-12:30,31116,7c915d50-673b-44a0-b549-53ad7a621a15
 france_travail,Agence France Travail METZ BLIDA,6.181509,49.125803,3 Avenue de Blida 57000 Metz,Mo-Fr 08:30-12:30,57463,7cfff7c2-6b92-4491-ba13-2b8617b9b061
 france_travail,Agence spécialisée France Travail Cinéma Spectacle Paris,2.289159,48.837949,CINEMA SPECTACLE PARIS  202 Rue de la Croix Nivert 75015 Paris,,75056,7d6934a9-173d-403b-9948-c3a341964d56
@@ -614,7 +614,6 @@ france_travail,Agence France Travail DIGOIN,4.003215,46.478176,1 Rue des Charmes
 france_travail,Agence France Travail CENTRE-ISERE,5.594895,45.360768,93 Boulevard Franklin Roosevelt 38500 Voiron,Mo-Fr 08:30-12:30,38563,b9c6ade3-2cbb-4bfe-b8d5-fbd112872f7e
 france_travail,Agence France Travail Savigny-le-Temple,2.588124,48.593823,44 Rue du Laiton 77176 Savigny-le-Temple,,77445,b9c9a97b-d45d-40a7-b168-b2fb1aa8928e
 france_travail,Agence France Travail Etampes,2.148494,48.429077,15 Rue de Saclas 91150 Étampes,,91223,b9cb9d55-087f-4699-b8d4-740bac0df816
-france_travail,Agence spécialisée France Travail Cinéma Spectacle Ouest et Nord,2.233728,48.909311,CINEMA SPECTACLE OUEST & NORD  14 Rue de Mantes 92700 Colombes,,92025,b9e7a510-8b4d-4f89-80b3-912808a4a115
 france_travail,Agence France Travail ST GILLES CROIX DE VIE,-1.912859,46.694527,7 Route de la roche 85800 Saint-Gilles-Croix-de-Vie,Mo-Fr 08:30-12:30,85222,b9ea3f5f-a068-46f3-9fae-c39cd0eeb9a7
 france_travail,Agence France Travail DU MOULIN,55.493183,-20.891572,CS 11110  4 Allée Maureau 97490 Saint-Denis,Mo-Fr 07:30-11:30,97411,ba27b302-44b8-4b43-abf3-7632b750272e
 france_travail,Agence France Travail SAINT JEAN DE MAURIENNE,6.355729,45.273138,310 Rue Jean Moulin 73300 Saint-Jean-de-Maurienne,Mo-Fr 08:30-12:30,73248,ba9d161f-6727-4fe3-a3ed-06c1ceeb127a
@@ -671,7 +670,7 @@ france_travail,Agence France Travail MONTAIGU,-1.337484,46.97661,ZA La Bretonni�
 france_travail,Agence France Travail COMPIEGNE DE LESSEPS,2.784558,49.395264,5bis Rue Ferdinand de Lesseps 60200 Compiègne,Mo-Fr 08:30-12:30,60159,c6699b71-4da8-4ef7-9fce-9d3e67524bfa
 france_travail,Agence France Travail SOMAIN,3.278751,50.363637,101 Rue Pasteur 59490 Somain,,59574,c6ab4f7e-811c-4cf1-b5ed-dc59474b4227
 france_travail,Relai France Travail DELLE,7.000971,47.512527,30 Faubourg de Belfort 90100 Delle,Mo-Fr 08:30-12:30,90033,c6b9d5f6-ea74-4b90-b0e0-7302099a8283
-france_travail,Agence France Travail CHALONS-EN-CHAMPAGNE,4.360944,48.956434,20 Rue de la Marne 51000 Châlons-en-Champagne,Mo-Fr 08:30-12:30,51108,c7101269-c3b2-4e35-8c68-fda6bf50d466
+france_travail,Agence France Travail CHALONS-EN-CHAMPAGNE,4.348787,48.954886,Avenue de la Gare 51000 Châlons-en-Champagne,Mo-Fr 08:30-12:30,51108,c7101269-c3b2-4e35-8c68-fda6bf50d466
 france_travail,Agence France Travail ANGERS BALZAC,-0.581262,47.472791,4 Rue des basses Fouassières 49000 Angers,Mo-Fr 08:30-12:30,49007,c74cc29c-d47f-46aa-8933-647e64ba54db
 france_travail,Agence France Travail LONGWY,5.787437,49.534563,MAISON FORMATION EMPLOI  ESPACE JEAN MONNET 54810 Longlaville,Mo-Fr 08:30-12:30,54321,c7d24289-0bc1-4fef-8608-986ba8f08d62
 france_travail,Agence France Travail BEAUVAIS DELIE,2.111696,49.411064,7 Rue du Docteur Pierre Delie 60000 Beauvais,Mo-Fr 08:30-12:30,60057,c7fb30d7-28de-411d-ba25-54be4bdd81a7
