@@ -487,7 +487,7 @@ france_travail,Agence France Travail QUIMPER NORD,-4.095105,48.0158,29 Route de 
 france_travail,Agence France Travail LE MANS SABLONS,0.233623,47.996139,20 Rue de Corse 72100 Le Mans,Mo-Fr 08:30-12:30,72181,966ad31f-a3e3-4f85-a21d-f9d6e765f0f0
 france_travail,Agence France Travail TOURCOING,3.172089,50.717768,64 Avenue Alfred Lefrançois 59200 Tourcoing,,59599,9694ccc8-0d10-4a16-b084-4e8c99f9a75f
 france_travail,Agence France Travail AULNOYE-AYMERIES,3.845289,50.198876,6 Rue Jean Jaurès 59620 Aulnoye-Aymeries,,59033,96acc0cc-2438-488f-b066-e0785bc80c37
-france_travail,Agence France Travail AFT COMBANI,45.1304,-12.7943,ZAE de Combani  3 RUE ALLAOUI M'HADJI 97680 Tsingoni,,97617,96b5e1a7-6bff-4ae3-a190-8ed11b697df4
+france_travail,Agence France Travail COMBANI,45.1304,-12.7943,ZAE de Combani  3 RUE ALLAOUI M'HADJI 97680 Tsingoni,,97617,96b5e1a7-6bff-4ae3-a190-8ed11b697df4
 france_travail,Agence France Travail SARREBOURG,7.042888,48.720852,ZA LES TERRASSES DE LA SARRE  2 Terrasse Bretagne 57400 Sarrebourg,Mo-Fr 08:30-12:30,57630,96c679cf-baf9-4175-b23a-aaef82396975
 france_travail,Agence France Travail RODEZ,2.561504,44.361999,245 Rue Theodore Matthieu 12000 Rodez,Mo-Fr 08:30-12:30,12202,96fa9e4d-ebe8-44cf-81f7-a8aa149e44c1
 france_travail,Agence France Travail LANDERNEAU,-4.257626,48.450798,59 rue de Brest 29800 Landerneau,Mo-Fr 08:30-12:30,29103,97032f2f-0891-49d9-ac32-7c7690144e5c
@@ -510,7 +510,7 @@ france_travail,Agence France Travail SAINT-DIZIER,4.950398,48.63161,Rue Godard-J
 france_travail,Agence France Travail BLAYE,-0.653793,45.127708,14 Rue Adelaïde Hautval 33390 Blaye,Mo-Fr 08:30-12:30,33058,9a46bc13-a535-4181-8fdc-7caa7d342e3e
 france_travail,Agence France Travail SAINT QUENTIN,3.295132,49.837042,51/53  Boulevard Cordier 02100 Saint-Quentin,Mo-Fr 08:30-12:30,02691,9a52b4ce-a7b0-43cb-94de-552d67200085
 france_travail,Agence France Travail Sarcelles,2.377773,48.979595,43 Avenue Paul Valéry 95200 Sarcelles,,95585,9b061278-cfc3-48f0-b734-425697b326c8
-france_travail,Agence spécialisée France Travail Agence Spectacle DF DROM MED,2.289159,48.837949,Cinema Spectacle IDF & DOM  202 Rue de la Croix Nivert 75015 Paris,,75056,9b3c56a0-52b6-4b50-a703-812a03a488b4
+france_travail,Agence spécialisée France Travail ACS DF Méd,2.289159,48.837949,ACS DF Méd  202 Rue de la Croix Nivert 75015 Paris,,75056,9b3c56a0-52b6-4b50-a703-812a03a488b4
 france_travail,Agence France Travail ANCENIS,-1.180187,47.376312,336 RUE DE CHATEAUBRIAND 44150 Ancenis-Saint-Géréon,Mo-Fr 08:30-12:30,44003,9b72822b-b4c8-484e-a16e-eca55fbab0c0
 france_travail,Agence France Travail THANN,7.092068,47.814883,17a Faubourg des Vosges 68800 Thann,Mo-Fr 08:30-12:30,68334,9b9355f5-0971-4e22-8759-a3efd4004afe
 france_travail,Agence France Travail Maisons-Alfort,2.444209,48.804171,CS 90039  259 Avenue du Général Leclerc 94700 Maisons-Alfort,,94046,9bae457d-fb7f-444a-b1e7-3d43183c86fd
@@ -716,7 +716,7 @@ france_travail,Agence France Travail ANTIBES SOPHIA,7.088752,43.601627,1547 Chem
 france_travail,Agence France Travail VIERZON,2.059751,47.225188,6 Rue Bernard Palissy 18100 Vierzon,Mo-Fr 08:45-12:45,18279,d0754c1f-ee08-4909-a239-3fe69934c9e9
 france_travail,Agence France Travail SAINTE MARIE REUNION,55.533154,-20.895035,IMM. LES CUVES DE LA MARE N A1 BAT 1  30 Rue André Lardy 97438 Sainte-Marie,Mo-Fr 07:30-11:30,97418,d09768a2-11d8-4b1c-bd66-d011ff23a043
 france_travail,Agence France Travail VICHY,3.435642,46.127709,650 Avenue de la Liberte 03200 Vichy,Mo-Fr 08:30-12:30,03310,d0a13933-4c2e-495c-851a-97f541253e19
-france_travail,Agence spécialisée France Travail Cinéma Spectacle Sud et Est,6.042232,45.878991,Cinema Spectacle Sud & Est  27 Route de la Foire 74650 Chavanod,,74067,d0cc695a-272b-4f6e-bc99-516958b40949
+france_travail,Agence spécialisée France Travail ACS Sud-Est DROM,6.042232,45.878991,ACS Sud-Est DROM  27 Route de la Foire 74650 Chavanod,,74067,d0cc695a-272b-4f6e-bc99-516958b40949
 france_travail,Agence France Travail VILLENEUVE SUR LOT,0.703002,44.402433,Avenue Lazare Carnot 47300 Villeneuve-sur-Lot,Mo-Fr 08:30-12:30,47323,d0f2ae7e-6e8e-4efd-961d-aee1d0deb36f
 france_travail,Agence France Travail REIMS MONT D'ARENE,4.020296,49.261781,67 Rue du Mont d'Arène 51100 Reims,Mo-Fr 08:30-12:30,51454,d16c27b9-8316-4922-a454-0671fc33a579
 france_travail,Agence France Travail FOIX,1.61121,42.953584,3 rue germain authie 09000 Foix,Mo-Fr 08:30-12:30,09122,d16c7311-4ead-4525-a7d9-0773feb1a6de
