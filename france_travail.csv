@@ -837,7 +837,7 @@ france_travail,Agence France Travail LA TESTE,-1.13929,44.616962,BATIMENT B  55 
 france_travail,Agence France Travail GIEN,2.613404,47.695546,62 Route d'Orléans 45500 Gien,Mo-Fr 08:45-12:45,45155,f4a91a68-cc7f-42fa-8500-c8ac9de8928a
 france_travail,Agence France Travail Dammarie-les-Lys,2.634394,48.518457,187 Rue Gaston Pluchon 77190 Dammarie-les-Lys,,77152,f4c0ccb4-cdcd-4fbf-a6d2-8d2fb13ce70d
 france_travail,Agence France Travail Chelles,2.58948,48.873138,3 Rue du Révérend Père Chaillet 77500 Chelles,,77108,f4c6a50a-01ee-46b7-ae7e-fb00091781df
-france_travail,Agence France Travail DAX,-1.056343,43.718201,8 Rue des Frênes 40100 Dax,Mo-Fr 08:30-12:30,40088,f4cd2558-dba0-4250-9dc0-b36ca9c64e1a
+france_travail,Agence France Travail GRAND DAX,-1.050155,43.718347,53 Rue Georges Chaulet 40100 Dax,Mo-Fr 08:30-12:30,40088,f4cd2558-dba0-4250-9dc0-b36ca9c64e1a
 france_travail,Agence France Travail ANNECY,6.12372,45.923626,127 Avenue de Genève (Annecy) 74600 Annecy,Mo-Fr 08:30-12:30,74010,f4cd748b-a991-4dd6-ba2f-865b07f75421
 france_travail,Agence France Travail MAMERS,0.37117,48.346754,102Bis Rue  Ledru Rollin 72600 Mamers,Mo-Fr 08:30-12:30,72180,f5503b45-884e-4fc7-93df-bea0c0f77f8d
 france_travail,Agence France Travail NANTES CHANTENAY,-1.590565,47.198397,5 Chemin du Pressoir Chênaie 44100 Nantes,Mo-Fr 08:30-12:30,44109,f575cea4-08c0-41b0-83f6-42973d9438f1
@@ -862,7 +862,7 @@ france_travail,Agence France Travail ARC LES GRAY,5.587709,47.453131,1 Avenue Se
 france_travail,Agence France Travail Livry-Gargan,2.548164,48.927646,33 Boulevard Robert Schuman 93190 Livry-Gargan,,93046,fbaa6698-7135-4aea-b33b-28b53532b939
 france_travail,Agence France Travail SECLIN,3.042147,50.549907,Avenue de la Republique 59113 Seclin,,59560,fc091138-1d59-4604-b398-6f6146d1c22c
 france_travail,Agence France Travail METZ SEBASTOPOL,6.230336,49.109461,METZ SEBASTOPOL TECHNOPOLE  5 Rue des Dinandiers 57070 Metz,Mo-Fr 08:30-12:30,57463,fd280712-b359-4733-94b4-9203d9d472ec
-france_travail,Agence France Travail SAINT PAUL LES DAX,-1.077682,43.728371,RESIDENCE LE LUXEMBOURG  835 Rue de l'Europe 40990 Saint-Paul-lès-Dax,Mo-Fr 08:30-12:30,40279,fd38dcd8-33b9-433c-b1a9-111318fb228e
+france_travail,Agence France Travail *SAINT PAUL LES DAX,-1.077682,43.728371,RESIDENCE LE LUXEMBOURG  835 Rue de l'Europe 40990 Saint-Paul-lès-Dax,Mo-Fr 08:30-12:30,40279,fd38dcd8-33b9-433c-b1a9-111318fb228e
 france_travail,Agence France Travail LIMOUX,2.225304,43.074866,ZI de Flassa  3 Impasse Didier Daurat 11300 Limoux,Mo-Fr 08:30-12:30,11206,fdb4c049-0bee-42fd-bf9d-f8729f30d1be
 france_travail,Agence France Travail NIORT GARENNE,-0.479001,46.304619,36 Rue Thomas Portau 79000 Niort,Mo-Fr 08:30-12:30,79191,fdc1f5ee-b4ff-453f-bb1a-69401594537e
 france_travail,Agence France Travail NANCY MAJORELLE,6.164631,48.686969,22 Rue François de Neufchateau 54000 Nancy,Mo-Fr 08:30-12:30,54395,fe4655e7-fa1f-4434-b2c0-51016fd5b355
